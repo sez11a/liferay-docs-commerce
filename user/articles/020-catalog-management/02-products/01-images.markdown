@@ -28,7 +28,7 @@ Follow these steps to create a product image:
     period of time, specify display and expiration dates in the *Schedule*
     section at the bottom of the form. Click *Publish.*
 
-## Default Product Images
+## Default Product Images [](id=default-product-images)
 
 If a product is published without any images, the *Product Detail* widget will
 display the default product image if one has been set.
