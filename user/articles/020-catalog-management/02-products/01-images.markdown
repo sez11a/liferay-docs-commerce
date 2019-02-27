@@ -6,7 +6,7 @@ displayed on product detail pages, in search results, or anywhere else
 information about the product is displayed. Images can also be associated with
 a specific product variant.
 
-![Figure 1: Product images are automatically published by the *Product Detail* widget.](../../../images/default-image.png)
+![Figure 1: Product images are automatically published by the *Product Detail* widget.](../../../images/product-image.png)
 
 Follow these steps to create a product image:
 
