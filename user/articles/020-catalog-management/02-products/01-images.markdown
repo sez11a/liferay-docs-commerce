@@ -30,8 +30,8 @@ Follow these steps to create a product image:
 
 ## Default Product Images [](id=default-product-images)
 
-If a product is published without any images, the *Product Detail* widget will
-display the default product image if one has been set.
+If a default image has been set, the *Product Detail* widget displays it for
+any products that are published without images of their own.
 
 ![Figure 2: A generic image can be used as a placeholder whenever product-specific images are not available.](../../../images/default-image.png)
 
@@ -45,5 +45,5 @@ To set a default image:
 
 3.  Click *Save*.
 
-That's it! The image you selected is now displayed for all products with no
-other image assigned to them.
+The image you selected is now displayed for all products with no other image
+assigned to them.
