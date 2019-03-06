@@ -124,10 +124,10 @@ override these values for individual products when you
 
 The field types used by Option Templates (see [Creating an Option
 Template](#creating-an-option-template), above) are the same as those used by
-the Forms application. To develop new field types, see [Form Field
+the Forms application. To create custom field types, see [Form Field
 Types](/develop/tutorials/-/knowledge_base/7-1/form-field-types).
 
-Once a custom form field type has been developed, follow these steps to activate it
+Once a custom form field type has been created, follow these steps to activate it
 as an Option Field Type:
 
 1.  Go to *Control Panel* &rarr; *Configuration* &rarr; *System Settings*
