@@ -60,9 +60,9 @@ accordingly.
 
 ## Installation [](id=installation)
 
-@commerce@ can be installed from an `.lpkg` file you can download
-[here](https://dev.liferay.com/en/web/commerce/downloads). You will also need
-GA2 or later of @product-ver@; see installation instructions
+@commerce@ can be installed on an existing @product@ instance from an `.lpkg`
+file you can download [here](https://dev.liferay.com/en/web/commerce/downloads).
+You will also need GA3 or later of @product-ver@; see installation instructions
 [here](/discover/deployment/-/knowledge_base/7-1/deploying-product).
 
 Once you have the `.lpkg`, follow these steps:
@@ -76,6 +76,10 @@ Once you have the `.lpkg`, follow these steps:
 
 4.  Go to *Control Panel* &rarr; *Configuration* &rarr; *Search* and reindex all
     search indexes.
+
+You can also [download](https://dev.liferay.com/en/web/commerce/downloads)
+@commerce@ bundled with @product@, or download a docker image of the same
+bundle. In these cases reindexing upon startup is not required.
 
 ## Accelerators [](id=accelerators)
 
