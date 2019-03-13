@@ -3,14 +3,8 @@
 <project name="portal Conversion" basedir=".">
 
 	<import file="../build-common.xml" />
-	<!-->
-	<property name="project.dir" value="../liferay-docs-commerce" />
-	</!-->
+
     <property name="purpose.dir" value="." />
 	<property name="doc.dir" value="developer"/>
-
-    <echo message="Project Dir: ${project.dir}" />
-    <echo message="Purpose Dir: ${purpose.dir}" />
-    <echo message="Doc Dir: ${doc.dir}" />
 
 </project>
