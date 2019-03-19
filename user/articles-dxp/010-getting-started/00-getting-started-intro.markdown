@@ -103,6 +103,27 @@ Follow these steps if you have an order number that includes @commerce@:
 6.  Go to *Control Panel* &rarr; *Configuration* &rarr; *Search* and reindex all
     search indexes.
 
+### Installing the Latest Version
+
+The process is similar if you already have @commerce@ and want to update to the
+latest version. First
+[download](https://dev.liferay.com/en/web/commerce/downloads) the latest
+`.lpkg` (it's the same file you woud use to install for the first time. Then
+follow these steps:
+
+1.  Shut down Liferay.
+
+2.  Delete the `osgi/state` folder in Liferay Home.
+
+3.  Delete `Liferay Commerce - API.lpkg` and `Liferay Commerce - Impl.lpkg` from `osgi/marketplace`.
+
+4.  Place the new `.lpkg` in the `Deploy` folder.
+
+5.  Start Liferay. When prompted by the log, shut down and restart again.
+
+Once you've completed these steps, it's a good practice to go to *Control
+Panel* &rarr; *Configuration* &rarr; *Search* and reindex all search indexes.
+
 ## Accelerators [](id=accelerators)
 
 The quickest way to get going with @commerce@ is to use an Accelerator.
