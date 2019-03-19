@@ -77,7 +77,7 @@ Once you have the `.lpkg`, follow these steps:
 4.  Go to *Control Panel* &rarr; *Configuration* &rarr; *Search* and reindex all
     search indexes.
 
-### Installing the Latest Version
+### Installing the Latest Version [](id=installing-the-latest-version)
 
 The process is similar if you already have @commerce@ and want to update to the
 latest version. First
