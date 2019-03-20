@@ -120,7 +120,7 @@ These values apply to every product where the template is applied. You can
 override these values for individual products when you 
 [apply the template to a product](/web/commerce/documentation/-/knowledge_base/1-0/adding-options-to-products).
 
-## Adding Custom Option Field Types
+## Adding Custom Option Field Types [](id=adding-custom-option-field-types)
 
 The field types used by Option Templates (see [Creating an Option
 Template](#creating-an-option-template), above) are the same as those used by
