@@ -8,13 +8,13 @@ a particular support plan, or who want the convenience of only seeing parts and
 accessories for equipment they already own.
 
 By default, all users are blacklisted: if no catalog rules are in place, then no
-users (except Site administrators) will be able to see the catalog at all.
+users (except Site administrators) can see the catalog at all.
 
 +$$$
 
 **Note:** If more than one catalog rule is applied to a single user, the rules
-will combine exclusively. Only products that are permitted by all the applicable
-rules will be visible.
+combine exclusively. Only products that are permitted by all the applicable
+rules are visible.
 
 $$$
 
@@ -38,7 +38,7 @@ Follow these steps:
     which this rule should apply. Click *Add*.
 
     If you specify more than one segment, the rule applies exclusively. Only
-    users who belong to all the specified segments will be included.
+    users who belong to all the specified segments are included.
 
 +$$$
 
