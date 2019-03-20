@@ -1,7 +1,7 @@
 # Creating New Product Types [](id=creating-new-product-types)
 
 @commerce@ supports three 
-[product types](/web/emporio/documentation/-/knowledge_base/1-0/product-types) 
+[product types](/web/commerce/documentation/-/knowledge_base/1-0/product-types) 
 out of the box, but additional types can be created. This tutorial covers
 creating a new product type and generating admin screens for its products.
 
@@ -93,7 +93,7 @@ identifier for the type to be stored in the database.
 At this point, you can deploy your module and create products belonging to your
 new type. Other than the type's label, however, these products have no special
 characteristics distinguishing them from
-[simple](/web/emporio/documentation/-/knowledge_base/1-0/product-types)
+[simple](/web/commerce/documentation/-/knowledge_base/1-0/product-types)
 products. 
 
 Defining your new type's functionality involves extending the catalog's UI to
@@ -181,10 +181,10 @@ Include the methods required by the interfaces:
         }
     }
 
-The `getLabel` method provides a name for the new tab on the frontend. You
-must have a `Language.properties` file containing a language key for
-appropriate string (`sample` in the example above). For more details on the
-above methods, see
+The `getLabel` method provides a name for the new tab on the front-end. You must
+have a `Language.properties` file containing a language key for the appropriate
+string (`sample` in the example above). For more details on the above methods,
+see 
 [Screen Navigation Framework](/develop/tutorials/-/knowledge_base/7-1/screen-navigation-framework).
 
 Finally, include the following references:
@@ -208,7 +208,7 @@ but the new tab has no content.
 
 ![Figure 4: The admin screen exists, but is not much use.](../images/cptype-empty-tab.png)
 
-Note that the `render` method calls for a `edit_sample_product.jsp` which
+Note that the `render` method calls for an `edit_sample_product.jsp` which
 should be placed in your `META-INF/resources` folder.
 
 Create the JSP. This example creates a simple text field:
