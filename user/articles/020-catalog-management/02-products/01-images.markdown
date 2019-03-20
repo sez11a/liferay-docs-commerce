@@ -14,13 +14,12 @@ Follow these steps to create a product image:
     product), click on the *Images* tab and then the *Add* button in the
     upper-right to display the *Add Image* form. Click *Select File* to upload
     a new image or video, or to select one from the documents and media
-    repository. Set a priority to control the order in which attachments will be
-    published on a page (lower numbers come first).
+    repository. Set a priority to control the order to publish attachments on
+    a page (lower numbers come first).
 
 2.  If you want to associate the image with a specific product variant, select
-    one from the *Options* section of the *Add Image* form. (Variants will only
-    be available to choose from if a product has options which are designated as
-    SKU contributors. See
+    one from the *Options* section of the *Add Image* form. (Variants are only
+    available if a product has options designated as SKU contributors. See
     [Options](/web/commerce/documentation/-/knowledge_base/1-0/options) for
     details).
 
@@ -31,7 +30,7 @@ Follow these steps to create a product image:
 ## Default Product Images [](id=default-product-images)
 
 If a default image has been set, the *Product Detail* widget displays it for
-any products that are published without images of their own.
+products published without images of their own.
 
 ![Figure 2: A generic image can be used as a placeholder whenever product-specific images are not available.](../../../images/default-image.png)
 
