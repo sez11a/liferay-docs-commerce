@@ -65,13 +65,13 @@ accordingly.
 ## Installation [](id=installation)
 
 Enterprise subscribers with a Liferay Commerce order can install from the 
-[Customer Portal](https://web.liferay.com/group/customer/dxp/downloads/commerce).
+[Help Center](https://web.liferay.com/group/customer/dxp/downloads/commerce).
 You need an order number that includes @commerce@ or an `.xml` activation key.
 You must also have @product-ver@; see installation instructions
 [here](/discover/deployment/-/knowledge_base/7-1/deploying-product).
 
-Once you've downloaded the @commerce@ `.lpkg` from Customer Portal, follow these
-steps if you have an `.xml` key:
+Once you've downloaded the @commerce@ `.lpkg`, follow these steps if you have an
+`.xml` key:
 
 1.  Start @product-ver@. 
 
