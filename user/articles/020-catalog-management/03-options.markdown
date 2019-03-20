@@ -136,7 +136,7 @@ as an Option Field Type:
 2.  Click the ![Add](../../images/icon-system-settings-add.png) button and enter
     the new field type's `Key` in the field that appears.
 
-3.  Click *Save. Your Field Type is now available for use by Option Templates.
+3.  Click *Save*. Your Field Type is now available for use by Option Templates.
 
 **Note:** The field types *paragraph*, *grid*, *text*, and *upload* are
 included in the Forms application but are not currently supported for use with
