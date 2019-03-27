@@ -13,4 +13,6 @@ Several functions are accessed through the *Site Menu* &rarr; *Commerce* &rarr;
 
 - [Taxes](/web/commerce/documentation/-/knowledge_base/1-0/taxes)
 
+- [Default Images](/web/commerce/documentation/-/knowledge_base/1-0/images#default-product-images)
+
 The remaining functions are described in this section.

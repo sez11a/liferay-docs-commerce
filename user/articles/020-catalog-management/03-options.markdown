@@ -102,7 +102,7 @@ Follow these steps:
     you want to create values for and click on the *values* button next to its
     title.
 
-2.  Click on the ![Add](../../images/icon-add.png) button and fill in the
+2.  Click the ![Add](../../images/icon-add.png) button and fill in the
     following fields in the *Option Value Detail* form.
 
 3.  Click *Save*. Repeat steps 2 and 3 to create additional values.
@@ -119,3 +119,25 @@ safely leave it alone.
 These values apply to every product where the template is applied. You can
 override these values for individual products when you 
 [apply the template to a product](/web/commerce/documentation/-/knowledge_base/1-0/adding-options-to-products).
+
+## Adding Custom Option Field Types [](id=adding-custom-option-field-types)
+
+The field types used by Option Templates (see [Creating an Option
+Template](#creating-an-option-template), above) are the same as those used by
+the Forms application. To create custom field types, see [Form Field
+Types](/develop/tutorials/-/knowledge_base/7-1/form-field-types).
+
+Once a custom form field type has been created, follow these steps to activate it
+as an Option Field Type:
+
+1.  Go to *Control Panel* &rarr; *Configuration* &rarr; *System Settings*
+    &rarr; *Catalog* &rarr; *Product Options*.
+
+2.  Click the ![Add](../../images/icon-system-settings-add.png) button and enter
+    the new field type's `Key` in the field that appears.
+
+3.  Click *Save*. Your Field Type is now available for use by Option Templates.
+
+**Note:** The field types *paragraph*, *grid*, *text*, and *upload* are
+included in the Forms application but are not currently supported for use with
+product options.
