@@ -33,16 +33,16 @@ A cart widget does that.
 There are three separate cart widgets, each with its own uses. They can be found
 at the *Add Menu* &rarr; *Widgets* &rarr; *Commerce*.
 
-The *Commerce Cart Content* widget displays the cart's current contents. It
+The *Cart* widget displays the cart's current contents. It
 includes controls to change the quantity of the products it holds, or to delete
 them entirely.
 
-The *Commerce Cart Content Total* widget displays the total price of all items
+The *Cart Summary* widget displays the total price of all items
 in the cart, including a checkout button. It doesn't list the cart's contents.
 
-The *Commerce Cart Content Mini* displays the cart's contents and includes
+The *Mini Cart* displays the cart's contents and includes
 a checkout button, but has no controls to edit its content. Instead, it displays
-an *Edit Cart* button that links to the *Commerce Cart Content* widget. Because
+an *Edit Cart* button that links to the *Cart* widget. Because
 of this link, the Content Mini widget can't function without a page containing
 a Cart Content widget.
 
@@ -50,13 +50,13 @@ Follow these steps to set up a cart:
 
 1.  [Create a page](/discover/portal/-/knowledge_base/7-1/creating-pages).
 
-2.  Go to *Add Menu* &rarr; *Widgets* &rarr; *Commerce* and add *Commerce
-    Cart Content* and *Commerce Cart Content Total* widgets to the page. This
-    is your main shopping cart page.
+2.  Go to *Add Menu* &rarr; *Widgets* &rarr; *Commerce* and add *Cart* and
+    *Cart Summary* widgets to the page. This is your main
+    shopping cart page.
 
 3.  On other suitable pages, such as product and category pages, add the more
-    compact *Commerce Cart Content Mini*, which provides quick reference to the
-    cart as well as a link to the main cart page.
+    compact *Cart Mini*, which provides quick reference to the cart as well as
+    a link to the main cart page.
 
 ## Checkout [](id=checkout)
 
@@ -82,7 +82,7 @@ prompting users to select one of each.
 
 The Commerce *Search Results* widget displays a product list resulting from
 search. There are two ways to populate search results with products: by clicking
-on a link in a *Commerce Category Navigation* widget, or by entering search
+on a link in a *Commerce Categories Navigation* widget, or by entering search
 terms in a *Search Bar* widget.
 
 +$$$
@@ -97,11 +97,11 @@ $$$
 
 ### Category Navigation [](id=category-navigation)
 
-Category navigation always searches by category. When a user clicks on
-a link in the navigation widget, the appropriate category page is displayed. If
-there is a search results portlet on that page, it shows the products assigned
-to that category. See 
-[Displaying Category Pages](/web/commerce/documentation/-/knowledge_base/1-0/displaying-category-pages)
+The Commerce Categores Navigation widget always searches by category. When a
+user clicks on a link in the widget, the appropriate category page is
+displayed. If there is a search results portlet on that page, it shows the
+products assigned to that category. See [Displaying Category
+Pages](/web/commerce/documentation/-/knowledge_base/1-0/displaying-category-pages)
 for details.
 
 ### The Search Bar [](id=the-search-bar)

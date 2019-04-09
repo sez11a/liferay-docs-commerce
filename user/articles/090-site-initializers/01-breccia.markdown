@@ -30,7 +30,7 @@ In general, these pages work as described in
 [Setting up a Storefront](/web/commerce/documentation/-/knowledge_base/1-0/setting-up-a-storefront).
 The site's *Catalog* page, however, is a little different. The page contains
 a category detail widget, so it is the target of all the links in the site's
-*category navigation* widgets (as well those in the embedded *Explore Products*
+*Commerce Categories Navigation* widgets (as well those in the embedded *Explore Products*
 menu). When a user selects a category from one of those links, she is directed
 to the *Catalog* page, which displays content appropriate to the selected
 category.

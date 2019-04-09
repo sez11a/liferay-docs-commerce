@@ -12,7 +12,7 @@ set certain standards for appearance and consistency, and then override the
 default with a custom page for any categories on which you want to lavish more
 attention.
 
-Once your categories have pages, the Category Navigation widget can be used to
+Once your categories have pages, the *Commerce Categories Navigation* widget can be used to
 help buyers easily find the products they want.
 
 ## Creating a Default Category Page [](id=creating-a-default-category-page)
@@ -28,8 +28,8 @@ Follow these steps to create a single generic page to display category content:
 3.  Add a *Category Content* widget to the page.
 
 The category content widget does two things. First, it identifies the page you
-just created as the default category page. When a link in a *Commerce Category
-Navigation* widget is clicked, the navigation widget finds the first page in the
+just created as the default category page. When a link in a Commerce Category
+Navigation widget is clicked, the navigation widget finds the first page in the
 site with a category content widget and opens that page. Second, the category
 content widget displays the category's
 [image](/web/commerce/documentation/-/knowledge_base/1-0/product-categories#images).
@@ -41,7 +41,7 @@ Facets* or *Specification Option Facets*, filter search results.
 
 +$$$
 
-**Note:** The commerce category navigation widget must be configured to link to
+**Note:** The commerce categories navigation widget must be configured to link to
 the category page. Once the widget is on a page, open its *Configuration*
 dialog. From the *Vocabulary* drop-down, select the vocabulary that contains
 your product category tree. See 
@@ -69,7 +69,7 @@ To create a unique page for a single category, follow these steps:
 
 You can put whatever content and applications you want on this page, but unlike
 the generic page it does *not* need a category content widget. When a user
-clicks on a category, the commerce category navigation widget first checks to
+clicks on a category, the commerce categories navigation widget first checks to
 see if a unique page has been designated for the selected category. If no page
 has been designated, it then checks for a category content widget.
 
