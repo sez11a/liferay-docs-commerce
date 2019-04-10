@@ -42,13 +42,13 @@ every page. In this case, however, there is no option to filter results by
 category. As a result, the category detail widget remains invisible, and the
 search results widget displays all products in the site's catalog.
 
-![Figure 4: Search results can be filtered using the facets widgets to the left of the page.](../../images/breccia-facets.png).
+![Figure 4: Search results can be filtered using the facet widgets to the left of the page.](../../images/breccia-facets.png).
 
 Keep in mind that there is no option to sort products by category in this case.
-However, you can offer that functionality by dropping a *category facets* widget
+However, you can offer that functionality by dropping a *Category Facet* widget
 onto the page.
 
-![Figure 5: *Category facets* still appear---displaying a single option---even when the *Catalog* page is only used to display a single category.](../../images/breccia-category-facet.png)
+![Figure 5: *Category Facet* still appears---displaying a single option---even when the *Catalog* page is only used to display a single category.](../../images/breccia-category-facet.png)
 
 ## Catalog [](id=catalog)
 

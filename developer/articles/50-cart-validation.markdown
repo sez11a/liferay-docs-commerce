@@ -1,6 +1,6 @@
 # Customizing Cart Validation[](id=customizing-cart-validation)
 
-Whenever a buyer adds a product to his cart or attempts to checkout, @commerce@
+Whenever a buyer adds a product to his cart or attempts to check out, @commerce@
 checks to make sure that the transaction is permissible. This tutorial describes
 how to inject custom behavior into the validation check.
 

@@ -37,7 +37,7 @@ content widget displays the category's
 You can add other content and applications to the page: for instance,
 a *Commerce Search Results* widget automatically displays products from the
 appropriate category when the page is viewed. Related widgets, such as *Option
-Facets* or *Specification Option Facets*, filter search results.
+Facet* or *Specification Facet*, filter search results.
 
 +$$$
 

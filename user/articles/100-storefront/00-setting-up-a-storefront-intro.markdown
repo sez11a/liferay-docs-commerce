@@ -25,7 +25,7 @@ Pages](/web/commerce/documentation/-/knowledge_base/1-0/displaying-category-page
 
 ## Shopping Cart [](id=shopping-cart)
 
-The product detail widget (see 
+The *Product Details* widget (see 
 [Displaying Product Pages](/web/commerce/documentation/-/knowledge_base/1-0/displaying-product-pages))
 lets users add products to the cart, but it doesn't make the cart visible.
 A cart widget does that. 
@@ -60,7 +60,7 @@ Follow these steps to set up a cart:
 
 ## Checkout [](id=checkout)
 
-The purchase process is handled by a *Commerce Checkout* widget. Follow
+The purchase process is handled by a *Checkout* widget. Follow
 these steps:
 
 1.  [Create a page](/discover/portal/-/knowledge_base/7-1/creating-pages).
@@ -120,8 +120,8 @@ Regardless of whether users click on links to categories or type keywords into
 a search bar, they need a way to filter their results. Search facet widgets
 make this possible.
 
-The two facet widgets that filter the catalog are *Specification Option Facets*
-and *Option Facets*, both of which are in *Add Menu* &rarr; *Widgets* &rarr;
+The two facet widgets that filter the catalog are *Specification Facet* and
+*Option Facet*, both of which are in *Add Menu* &rarr; *Widgets* &rarr;
 *Commerce*. Place either widget onto a page that also contains a search results
 portlet to filter results by
 [specification](/web/commerce/documentation/-/knowledge_base/1-0/specifications)
@@ -135,15 +135,15 @@ a single page. Follow these steps to enable this feature:
 
 1.  [Create a page](/discover/portal/-/knowledge_base/7-1/creating-pages).
 
-2.  Go to *Add Menu* &rarr; *Widgets* &rarr; *Commerce* and add a *Compare
-    Products* widget to the page.
+2.  Go to *Add Menu* &rarr; *Widgets* &rarr; *Commerce* and add a *Product
+    Comparison Table* widget to the page.
 
 3.  Go to your 
     [product page](/web/commerce/documentation/-/knowledge_base/1-0/displaying-product-pages) 
-    and add a *Compare Products Mini* widget to the page.
+    and add a *Product Comparison Bar* widget to the page.
 
-When a user clicks on the *Compare* box in the *Product Detail* widget, the
-product is saved to compare and displayed in the *Compare Products Mini* widget.
-When a users clicks on the *Compare* button in the mini widget, the page with
-the *Compare Products* widget appears, showing all products that have been
+When a user clicks on the *Compare* box in the *Product Details* widget, the
+product is saved for comparison and displayed in the *Product Comparison Bar*.
+When a users clicks on the *Compare* button on the bar, the page with the
+*Product Comparison Table* appears, showing all products that have been
 selected for comparison.

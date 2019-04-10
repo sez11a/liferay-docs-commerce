@@ -70,7 +70,7 @@ default, however, the customer portal uses three Roles for customer users:
 Buyers, Order Managers, and Account Managers.
 
 **Buyers** are customer users who select what products to buy. By default,
-buyers have permission to view and checkout orders.
+buyers have permission to view and check out orders.
 
 **Order Managers** are customer users who oversee the purchasing process. In
 addition to the permissions that a buyer has, they can delete, manage, and
