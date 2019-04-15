@@ -103,6 +103,27 @@ Follow these steps if you have an order number that includes @commerce@:
 6.  Go to *Control Panel* &rarr; *Configuration* &rarr; *Search* and reindex all
     search indexes.
 
+### Installing the Latest Version
+
+The process is similar if you already have @commerce@ and want to update to the
+latest version. First
+[download](https://dev.liferay.com/en/web/commerce/downloads) the latest
+`.lpkg` (it's the same file you woud use to install for the first time. Then
+follow these steps:
+
+1.  Shut down Liferay.
+
+2.  Delete the `osgi/state` folder in Liferay Home.
+
+3.  Delete `Liferay Commerce - API.lpkg` and `Liferay Commerce - Impl.lpkg` from `osgi/marketplace`.
+
+4.  Place the new `.lpkg` in the `Deploy` folder.
+
+5.  Start Liferay. When prompted by the log, shut down and restart again.
+
+Once you've completed these steps, it's a good practice to go to *Control
+Panel* &rarr; *Configuration* &rarr; *Search* and reindex all search indexes.
+
 ## Accelerators [](id=accelerators)
 
 The quickest way to get going with @commerce@ is to use an Accelerator.
@@ -113,10 +134,9 @@ an Accelerator is an easy way to see what @commerce@ can do, and can be used
 to get a head start on a live store: modify the theme to suit your purposes,
 replace the dummy catalog with your own data, and you're well on your way.
 
-At the time of this writing, @commerce@ ships with two Accelerators.
-Beryl---available to subscribers only---is geared toward B2B selling, while
-Breccia models a UI similar to that used by most major retailers. Both
-Accelerators include a theme, a complete user interface, and a catalog populated
-with sample products. See 
+At the time of this writing, @commerce@ ships with two Accelerators.  Minium is
+geared toward B2B selling, while Breccia models a UI similar to that used by
+most major retailers. Both Accelerators include a theme, a complete user
+interface, and a catalog populated with sample products. See
 [Accelerators](/web/commerce/documentation/-/knowledge_base/1-0/accelerators)
 for more information.
