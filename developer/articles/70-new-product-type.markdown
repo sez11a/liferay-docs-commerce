@@ -122,8 +122,8 @@ interfaces:
     public class SampleCPTypeVirtualScreenNavigationEntry
         implements ScreenNavigationCategory, ScreenNavigationEntry<CPDefinition> {
 
-Note that the two `order` properties locate the your admin screen in the
-product's tab bar.
+Note that the two `order` properties locate your admin screen in the product's
+tab bar.
 
 ![Figure 3: In this case, the product type admin tab is placed immediately after the *Details* tab.](../images/cptype-tab-menu-2.png)
 
