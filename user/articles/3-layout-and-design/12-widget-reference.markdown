@@ -24,8 +24,8 @@ a checkout button, but has no controls to edit its content. Instead, it displays
 an *Edit Cart* button that links to the Cart widget. Because of this link, the
 Mini Cart can't function unless a page containing a Cart widget is present.
 
-**Open Carts:** The Pending Orders widget displays orders that have not been
-submitted to the seller. The Cart widget's current contents are included as
+**Open Carts:** The Open Carts widget displays carts that have not been
+checked out. The Cart widget's current contents are included as
 a pending order, as well as any orders that are in the process of a buyer-side
 workflow.
 
@@ -55,7 +55,7 @@ point](/web/liferay-emporio/documentation/-/knowledge_base/1-0/custom-checkout-s
 **Commerce Categories Navigation:** The Commerce Categories Navigation widget
 displays link to each product category. 
 
-The widget displays a link for every category within a selected vocabulary.
+The widget displays a link to every category within the selected vocabulary.
 Each link provides context to the category page so that the correct content is
 displayed.
 
@@ -86,7 +86,7 @@ a product. When a user clicks on a link to a product page, the widget retrieves
 the appropriate content from the catalog and displays it on the page. 
 
 Rather than forcing you to configure a unique page for every product, the
-widget allows you to use a single page,  reading the current context to
+widget allows you to use a single page, reading the current context to
 determine what product's information should be displayed.
 
 **Product Downloads:** The Product Downloads widget displays a list of files
@@ -95,8 +95,8 @@ a downloadable file attached, that file can be retrieved from the Product
 Downloads widget.
 
 **Product Publisher:** The Product Publisher displays a list of products. You
-can select products manually, or configure so Commerce can make the selection
-for you.
+can create a static list of products to display, create a rule to dynamically show
+products or show products from a data source.
 
 -   Dynamic selection: Publish products associated with certain categories and
     or tags. From the Configuration screen, open the *Filter* section and
@@ -105,11 +105,13 @@ for you.
 
 -   dataSource selection: Select a criterion (for example, *Products of the same
     Category*) that will be applied depending on the current context. 
- 
+
 **Product Subscriptions:** Allows buyers to track and manage subscriptions.
 
 **Search Results:** The Commerce &rarr; Search Results widget displays products
-in response to a search query. Not to be confused with the Search &rarr; Search
+in response to a search query.
+
+Note: it's not to be confused with the Search &rarr; Search
 Results widget, which returns assets of all types.
 
 **Option Facet:** Displays facets for filtering search results by product
