@@ -1,3 +1,7 @@
+---
+header-id: commerce-widgets
+---
+
 # Commerce Widgets
 
 Liferay Commerce ships with a wide range of widgets you'll use to construct
