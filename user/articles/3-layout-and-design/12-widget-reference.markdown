@@ -4,34 +4,35 @@ Liferay Commerce ships with a wide range of widgets you'll use to construct
 your site. This section provides a convenient overview in one place.
 
 **Accounts:** The Account Management widget allows buyers, sales agents and
-administrators to manage their accounts without having to access to the control
-panel.
+administrators to manage their
+[accounts](/web/liferay-emporio/documentation/-/knowledge_base/1-0/accounts)
+a without having to access to the control panel.
 
 Administrators can view a list of all accounts, create new accounts, delete
-existing accounts, relate accounts to organizations, add members to accounts and
-manage the roles and profile data of account members. Other roles can be given
-fewer permissions.
+existing accounts, relate accounts to organizations, add members to accounts
+and manage the roles and profile data of account members. Other roles can be
+given fewer permissions.
 
 **Cart:** The Cart widget displays the cart's current contents. It includes
 controls to change the quantity of the products it holds, or to delete them
 entirely.
 
 **Cart Summary:** The Cart Summary widget displays the total price of all items
-in the cart, including a *checkout* button. It doesn't list the cart's contents.
+in the cart, including a *checkout* button. It doesn't list the cart's
+contents.
 
-**Mini Cart:** The Mini Cart displays the cart's contents and includes
-a checkout button, but has no controls to edit its content. Instead, it displays
+**Mini Cart:** The Mini Cart displays the cart's contents and includes a
+checkout button, but has no controls to edit its content. Instead, it displays
 an *Edit Cart* button that links to the Cart widget. Because of this link, the
 Mini Cart can't function unless a page containing a Cart widget is present.
 
-**Open Carts:** The Open Carts widget displays carts that have not been
-checked out. The Cart widget's current contents are included as
-a pending order, as well as any orders that are in the process of a buyer-side
-workflow.
+**Open Carts:** The Open Carts widget displays carts that have not been checked
+out. The Cart widget's current contents are included as a pending order, as
+well as any orders that are in the process of a buyer-side workflow.
 
 **Category Content:** The Category Content widget identifies a category page to
-other widgets and selects content appropriate to the context. This allows
-a single page to represent all of a site's product categories.
+other widgets and selects content appropriate to the context. This allows a
+single page to represent all of a site's product categories.
 
 When a user selects link to a product category, Category Content displays
 content based on the category selected. By default, the widget will display
@@ -43,14 +44,14 @@ point the search widget toward products in the selected category.
 **Checkout:** The checkout widget handles the purchase process. Without any
 configuration, the Checkout widget features a four-step process: shipping
 address, billing address, order summary and order confirmation. When you
-configure [Shipping
-Methods](/web/liferay-emporio/documentation/-/knowledge_base/1-0/shipping-methods)
-and [Payment
-Methods](/web/liferay-emporio/documentation/-/knowledge_base/1-0/payment-methods),
+configure 
+[Shipping Methods](/web/liferay-emporio/documentation/-/knowledge_base/1-0/shipping-methods)
+and 
+[Payment Methods](/web/liferay-emporio/documentation/-/knowledge_base/1-0/payment-methods),
 additional steps are automatically added to the process.
 
-Custom checkout steps can be added using the [custom checkout step extension
-point](/web/liferay-emporio/documentation/-/knowledge_base/1-0/custom-checkout-step).
+Custom checkout steps can be added using the 
+[custom checkout step extension point](/web/liferay-emporio/documentation/-/knowledge_base/1-0/custom-checkout-step).
 
 **Commerce Categories Navigation:** The Commerce Categories Navigation widget
 displays link to each product category. 
@@ -76,13 +77,13 @@ on different products side-by-side.
 **Product Comparison Bar:** The Product Comparison Bar adds products to the
 Product Comparison Table.
 
-When placed on a product page, this widget modifies the Product Detail widget to
-include a *Compare* button. Clicking it adds the current product to Bar.
+When placed on a product page, this widget modifies the Product Detail widget
+to include a *Compare* button. Clicking it adds the current product to Bar.
 Clicking the Bar's *Compare* button navigates to the Product Comparison Widget
 and displays selected products side-by-side.
 
-**Product Details:** The Product Details widget displays information about
-a product. When a user clicks on a link to a product page, the widget retrieves
+**Product Details:** The Product Details widget displays information about a
+product. When a user clicks on a link to a product page, the widget retrieves
 the appropriate content from the catalog and displays it on the page. 
 
 Rather than forcing you to configure a unique page for every product, the
@@ -90,35 +91,35 @@ widget allows you to use a single page, reading the current context to
 determine what product's information should be displayed.
 
 **Product Downloads:** The Product Downloads widget displays a list of files
-that a user can download. When a user purchases a virtual product with
-a downloadable file attached, that file can be retrieved from the Product
+that a user can download. When a user purchases a virtual product with a
+downloadable file attached, that file can be retrieved from the Product
 Downloads widget.
 
 **Product Publisher:** The Product Publisher displays a list of products. You
-can create a static list of products to display, create a rule to dynamically show
-products or show products from a data source.
+can create a static list of products to display, create a rule to dynamically
+show products or show products from a data source.
 
 -   Dynamic selection: Publish products associated with certain categories and
     or tags. From the Configuration screen, open the *Filter* section and
     specify what categories or tags you want to publish or exclude from
     publishing.
 
--   dataSource selection: Select a criterion (for example, *Products of the same
-    Category*) that will be applied depending on the current context. 
+-   dataSource selection: Select a criterion (for example, *Products of the
+    same Category*) that will be applied depending on the current context. 
 
 **Product Subscriptions:** Allows buyers to track and manage subscriptions.
 
 **Search Results:** The Commerce &rarr; Search Results widget displays products
 in response to a search query.
 
-Note: it's not to be confused with the Search &rarr; Search
-Results widget, which returns assets of all types.
+Note: it's not to be confused with the Search &rarr; Search Results widget,
+which returns assets of all types.
 
 **Option Facet:** Displays facets for filtering search results by product
 option.
 
-**Specification Facet:** Displays facets for filtering search results by product
-specification.
+**Specification Facet:** Displays facets for filtering search results by
+product specification.
 
 **Shipments:** Displays shipment information to buyers. The information
 displayed by the Shipments widget must be entered in the Shipments
@@ -128,5 +129,5 @@ administrative portlet in *Site Menu* &rarr; *Commerce* &rarr; *Shipments*.
 The Wish Lists widget displays the current user's wish lists. Users can add or
 delete lists, or select one to display its contents.
 
-**Wish List Contents:** Displays the contents of the wish list selected by
-a Wish Lists widget on the same page.
+**Wish List Contents:** Displays the contents of the wish list selected by a
+Wish Lists widget on the same page.
