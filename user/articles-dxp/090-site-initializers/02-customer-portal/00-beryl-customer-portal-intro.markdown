@@ -1,4 +1,8 @@
-# Customer Portal [](id=customer-portal)
+---
+header-id: customer-portal
+---
+
+# Customer Portal
 
 The Beryl Customer Portal is a sample store that models a B2B scenario where
 each buyer is an organization which may include multiple users. You can use Beryl as

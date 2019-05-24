@@ -1,4 +1,8 @@
-# Measurement Units [](id=measurement-units)
+---
+header-id: measurement-units
+---
+
+# Measurement Units
 
 @commerce@ comes with a number of common measurement units already defined, but
 if you or your shipping provider use different units, you may need to change the
@@ -14,7 +18,7 @@ a shipping provider's system, you must have the provider's units defined as
 well. If the provider uses units that are different from your primary, the
 conversion is handled automatically.
 
-## Adding a New Measurement Unit [](id=adding-a-new-measurement-unit)
+## Adding a New Measurement Unit
 
 1.  Go to *Site Menu* &rarr; *Commerce* &rarr; *Settings* and select the
     *Measurement Units* tab. Then choose the appropriate sub-tab for
@@ -41,7 +45,7 @@ conversion is handled automatically.
 
 3.  Click *Save*.
 
-## Choosing a Primary Measurement Unit [](id=choosing-a-primary-measurement-unit)
+## Choosing a Primary Measurement Unit
 
 The default primary units are pound for weight and inch for distance. Follow
 these steps to set another unit as primary:

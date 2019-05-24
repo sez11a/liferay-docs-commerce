@@ -1,4 +1,8 @@
-# Getting Started with @commerce@ [](id=getting-started)
+---
+header-id: getting-started
+---
+
+# Getting Started with @commerce@
 
 @commerce@ is a digital commerce platform built from the ground up to work with
 @product@, making it easy to leverage a fully integrated content management
@@ -6,7 +10,7 @@ system and best-in-breed portal capabilities in commerce websites. Any website
 built with @product-ver@ can be integrated seamlessly with a store built with
 @commerce@.
 
-## Overview [](id=overview)
+## Overview
 
 @commerce@ contains a 
 [catalog management](/web/commerce/documentation/-/knowledge_base/1-0/catalog-management)
@@ -58,7 +62,7 @@ separately and automatically. When an order is placed, @commerce@ determines
 which warehouse is closest to the delivery point and processes the order
 accordingly.
 
-## Installation [](id=installation)
+## Installation
 
 @commerce@ can be installed on an existing @product@ instance from an `.lpkg`
 file you can download [here](https://dev.liferay.com/en/web/commerce/downloads).
@@ -81,7 +85,7 @@ Once you have the `.lpkg`, follow these steps:
 @commerce@ bundled with @product@, or download a docker image of the same
 bundle. In these cases reindexing upon startup is not required.
 
-### Installing the Latest Version [](id=installing-the-latest-version)
+### Installing the Latest Version
 
 The process is similar if you already have @commerce@ and want to update to the
 latest version. First
@@ -102,7 +106,7 @@ follow these steps:
 Once you've completed these steps, it's a good practice to go to *Control
 Panel* &rarr; *Configuration* &rarr; *Search* and reindex all search indexes.
 
-## Accelerators [](id=accelerators)
+## Accelerators
 
 The quickest way to get going with commerce is to use a site Accelerator. An 
 Accelerator is a type of [Site Template]( /discover/portal/-/knowledge_base/7-1/building-sites-from-templates)

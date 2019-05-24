@@ -1,4 +1,8 @@
-# Availability Estimates [](id=availability-estimates)
+---
+header-id: availability-estimates
+---
+
+# Availability Estimates
 
 When an item is out of stock, you must communicate to buyers an availability
 estimate. You can provide that information by selecting a time frame from

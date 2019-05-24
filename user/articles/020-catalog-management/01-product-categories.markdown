@@ -1,4 +1,8 @@
-# Product Categories [](id=product-categories)
+---
+header-id: product-categories
+---
+
+# Product Categories
 
 Products can be organized into *Categories*. These groupings allow multiple
 products to be handled as a single unit. For example, a product category could
@@ -9,26 +13,22 @@ segment.
 To organize products into categories, you must create the categories first and
 then assign products to them.
 
-## Creating Categories [](id=creating-categories)
+## Creating Categories
 
 To create vocabularies, categories and subcategories, go to *Site Menu* &rarr;
 *Categorization* &rarr; *Categories*. To learn more about the process, go to the
 [Defining Categories for Content](/discover/portal/-/knowledge_base/7-1/defining-categories-for-content)
 section.
 
-+$$$
+| Note: Categories nest hierarchically. While this allows multiple categories to
+| be grouped together and handled as a single unit, it also makes it difficult for
+| administrators to see the entire vocabulary. To view all categories at once, go
+| to *Control Panel* &rarr; *Configuration* &rarr; *System Settings* &rarr;
+| *Assets* and select *Flattened Tree* from the drop-down menu in *Asset
+| Categories Web*. Then return to *Site Menu* &rarr; *Content* &rarr;
+| *Categories*.
 
-Note: Categories nest hierarchically. While this allows multiple categories to
-be grouped together and handled as a single unit, it also makes it difficult for
-administrators to see the entire vocabulary. To view all categories at once, go
-to *Control Panel* &rarr; *Configuration* &rarr; *System Settings* &rarr;
-*Assets* and select *Flattened Tree* from the drop-down menu in *Asset
-Categories Web*. Then return to *Site Menu* &rarr; *Content* &rarr;
-*Categories*.
-
-$$$
-
-## Adding and Removing Products from Categories [](id=adding-and-removing-products-from-categories)
+## Adding and Removing Products from Categories
 
 Follow these steps:
 
@@ -52,7 +52,7 @@ application:
 
 3.  Click *Remove*.
 
-## Category Display Page [](id=category-display-page)
+## Category Display Page
 
 You may want to associate more than just products with your categories. The
 category display page creates a relationship between a category, a specified
@@ -80,7 +80,7 @@ This process creates a relationship between the category and a blank page. At
 any point, you can populate the page with whatever content or applications suit
 your purposes.
 
-## Images [](id=images)
+## Images
 
 Uploading images and associating them with product categories lets you
 designate a generic category page that automatically displays images and

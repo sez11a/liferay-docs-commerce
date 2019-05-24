@@ -1,4 +1,8 @@
-# Warehouses [](id=warehouses)
+---
+header-id: warehouses
+---
+
+# Warehouses
 
 Initially, inventory levels for all products must be entered manually. From then
 on, inventory levels are tracked automatically as orders are filled. To set
@@ -6,7 +10,7 @@ a product's inventory level, see
 [SKUs](/web/commerce/documentation/-/knowledge_base/1-0/skus#inventory).
 First, however, you must have your warehouses in order.
 
-## Using a Single Warehouse [](id=using-a-single-warehouse)
+## Using a Single Warehouse
 
 If you have only one warehouse, there is no need to geocode its location.
 However, if you integrate your system with a shipping company's (see 
@@ -14,15 +18,11 @@ However, if you integrate your system with a shipping company's (see
 for details), you must enter your warehouse's address to calculate shipping
 costs.
 
-+$$$
-
-Before you can enter the address for a warehouse, you may need to enter and
-activate the applicable country and region (state or province) at the
-*Countries* tab at *Site Menu* &rarr; *Commerce* &rarr; *Settings*. For more
-detail see
-[Settings](/web/commerce/documentation/-/knowledge_base/1-0/countries).
-
-$$$
+| Before you can enter the address for a warehouse, you may need to enter and
+| activate the applicable country and region (state or province) at the
+| *Countries* tab at *Site Menu* &rarr; *Commerce* &rarr; *Settings*. For more
+| detail see
+| [Settings](/web/commerce/documentation/-/knowledge_base/1-0/countries).
 
 Follow these steps:
 
@@ -34,7 +34,7 @@ Follow these steps:
 3.  Fill in the form, giving your warehouse a name and entering its address.
     Click *Save*.
 
-## Using Multiple Warehouses [](id=using-multiple-warehouses)
+## Using Multiple Warehouses
 
 If you have more than one warehouse, then you not only must track inventories at
 different locations separately, but also must determine from which warehouse
@@ -56,7 +56,7 @@ First, you must enter the location of each warehouse. Follow these steps:
 
 4.  Repeat steps 2 and 3 until all of your warehouses have been added.
 
-## Geocoding Warehouses [](id=geocoding-warehouses)
+## Geocoding Warehouses
 
 @commerce@ automatically processes orders so products are shipped from the
 closest warehouse. On its own, however, the software cannot calculate which

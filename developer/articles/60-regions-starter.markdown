@@ -1,4 +1,8 @@
-# Adding Regions to @commerce@'s Country List [](id=adding-regions-to-commerces-country-list)
+---
+header-id: adding-regions-to-commerces-country-list
+---
+
+# Adding Regions to @commerce@'s Country List
 
 @commerce@ stores a country list that is used wherever a user is prompted to
 select a country (typically to enter an address). @commerce@ also stores lists

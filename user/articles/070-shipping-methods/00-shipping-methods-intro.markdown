@@ -1,4 +1,8 @@
-# Shipping Methods [](id=shipping-methods)
+---
+header-id: shipping-methods
+---
+
+# Shipping Methods
 
 When buyers place orders, they should be prompted to choose among a variety of
 shipping options. You can create as many shipping options as you like, but they

@@ -1,4 +1,8 @@
-# User Segmentation [](id=user-segmentation)
+---
+header-id: user-segmentation
+---
+
+# User Segmentation
 
 User Segmentation organizes users into groups, so price lists, discounts, and
 other features can be precisely targeted to those users.
@@ -7,15 +11,11 @@ You can define segments by individual users, by Role, or by whole Organizations
 or User Groups. You are not limited to one type: a segment can have members of
 an Organization plus other users that you designate by Role.
 
-+$$$
+| User segments are not static. At any point, you can return to a segment and make
+| changes to its membership. Any changes you make will be applied to any price
+| lists or other features associated with the segment.
 
-User segments are not static. At any point, you can return to a segment and make
-changes to its membership. Any changes you make will be applied to any price
-lists or other features associated with the segment.
-
-$$$
-
-## Creating a User Segment [](id=creating-a-user-segment)
+## Creating a User Segment
 
 1.  Go to *Site Menu* &rarr; *Commerce* &rarr; *User Segments*.
 
@@ -54,12 +54,8 @@ add users:
 5.  To add additional criteria, repeat steps 1 through 4, selecting a different
     type in step 2.
 
-+$$$
-
-**Note:** When you create a user segment with more than one criterion, the
-criteria are combined exclusively. For example, if a user segment includes
-members of the Organization *Procurement* and the User Group *Purchasing
-Managers*, the resulting segment includes only users who are members of *both*
-groups. It does not include users who are members of only one.
-
-$$$
+| **Note:** When you create a user segment with more than one criterion, the
+| criteria are combined exclusively. For example, if a user segment includes
+| members of the Organization *Procurement* and the User Group *Purchasing
+| Managers*, the resulting segment includes only users who are members of *both*
+| groups. It does not include users who are members of only one.

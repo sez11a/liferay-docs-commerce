@@ -1,4 +1,8 @@
-# Creating New Shipping Methods [](id=creating-new-shipping-methods)
+---
+header-id: creating-new-shipping-methods
+---
+
+# Creating New Shipping Methods
 
 @commerce@ includes three
 [shipping methods](/web/commerce/documentation/-/knowledge_base/1-0/shipping-methods)
@@ -15,7 +19,7 @@ The following instructions cover the creation of new shipping methods.
 Business logic to integrate with any particular shipping company (UPS, DHL,
 etc.) is outside the scope of this tutorial.
 
-## Shipping Options and Shipping Methods [](id=shipping-options-and-shipping-methods)
+## Shipping Options and Shipping Methods
 
 Before we dive in, it's important to understand the difference between a
 *shipping option* and a *shipping method*:
@@ -34,7 +38,7 @@ options to present to buyers.
 Administrators can create any number of shipping options for buyers to select,
 but all of them rely on a shipping method to calculate costs.
 
-## Creating a Custom Method [](id=creating-a-custom-method)
+## Creating a Custom Method
 
 Creating a new shipping method involves implementing the
 `CommerceShippingEngine` interface and writing your own logic for the

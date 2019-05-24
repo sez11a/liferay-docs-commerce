@@ -1,4 +1,8 @@
-# Catalog Rules [](id=catalog-rules)
+---
+header-id: catalog-rules
+---
+
+# Catalog Rules
 
 Catalog Rules manage the catalog's visibility. They work with [user
 segments](/web/commerce/documentation/-/knowledge_base/1-0/user-segmentation) to
@@ -10,13 +14,9 @@ accessories for equipment they already own.
 By default, all users are blacklisted: if no catalog rules are in place, then no
 users (except Site administrators) can see the catalog at all.
 
-+$$$
-
-**Note:** If more than one catalog rule is applied to a single user, the rules
-combine exclusively. Only products that are permitted by all the applicable
-rules are visible.
-
-$$$
+| **Note:** If more than one catalog rule is applied to a single user, the rules
+| combine exclusively. Only products that are permitted by all the applicable
+| rules are visible.
 
 Follow these steps:
 
@@ -40,11 +40,7 @@ Follow these steps:
     If you specify more than one segment, the rule applies exclusively. Only
     users who belong to all the specified segments are included.
 
-+$$$
-
-**Note:** In step 2 above, the *Catalog* selection is the only type that
-actually restricts the catalog's visibility. With the development of additional
-code, you can add other custom types, allowing sections of the catalog to be
-selected by individual product, by specification, or by other criteria. 
-
-$$$
+| **Note:** In step 2 above, the *Catalog* selection is the only type that
+| actually restricts the catalog's visibility. With the development of additional
+| code, you can add other custom types, allowing sections of the catalog to be
+| selected by individual product, by specification, or by other criteria.

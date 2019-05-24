@@ -1,4 +1,8 @@
-# Settings [](id=settings)
+---
+header-id: settings
+---
+
+# Settings
 
 Several functions are accessed through the *Site Menu* &rarr; *Commerce* &rarr;
 *Settings*. Many of these are described elsewhere: 

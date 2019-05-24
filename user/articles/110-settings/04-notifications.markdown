@@ -1,4 +1,8 @@
-# Notifications [](id=notifications)
+---
+header-id: notifications
+---
+
+# Notifications
 
 Notifications are automated emails sent to buyers. By default, notifications can
 only be sent to inform buyers when an order has been received, but an extension

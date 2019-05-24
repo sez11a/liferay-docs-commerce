@@ -1,4 +1,8 @@
-# Currencies [](id=currencies)
+---
+header-id: currencies
+---
+
+# Currencies
 
 Your store can use one or more currencies. Go to *Site Menu* &rarr; *Commerce*
 &rarr; *Settings* and click on the *Currencies* tab to view the currencies in
@@ -38,7 +42,7 @@ Check the *Primary* box to make this currency your store's default. Check the
 a *Priority* to determine where this currency is positioned in any lists where
 it appears---lower numbers come first.
 
-## Exchange Rates [](id=exchange-rates)
+## Exchange Rates
 
 You can choose to allow buyers to purchase products using currencies other than
 your store's primary (see 

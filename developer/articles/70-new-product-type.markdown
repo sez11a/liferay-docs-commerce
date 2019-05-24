@@ -1,4 +1,8 @@
-# Creating New Product Types [](id=creating-new-product-types)
+---
+header-id: creating-new-product-types
+---
+
+# Creating New Product Types
 
 @commerce@ supports three 
 [product types](/web/commerce/documentation/-/knowledge_base/1-0/product-types) 
@@ -29,7 +33,7 @@ Follow these steps:
 4.  Create JSP files to populate the admin screen, and provide whatever
     additional Java classes are necessary to support them.
 
-## Defining the New Type [](id=defining-the-new-type)
+## Defining the New Type
 
 First, create a module and add dependencies to its `build.gradle`. The build
 script should look like this:
@@ -200,7 +204,7 @@ Finally, include the following references:
 The `osgi.web.symbolicname` should match the `Bundle-SymbolicName` from your
 module's `bnd.bnd` file.
 
-## Providing a UI [](id=providing-a-ui)
+## Providing a UI
 
 At this point if you deploy your module to the server and create a product of
 the new type, you'll see that you've added a new item to the product tab menu,

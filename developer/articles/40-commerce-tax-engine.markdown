@@ -1,4 +1,8 @@
-# Creating New Tax Methods [](id=creating-new-tax-methods)
+---
+header-id: creating-new-tax-methods
+---
+
+# Creating New Tax Methods
 
 Out of the box, @commerce@ offers two methods for calculating
 [taxes](/web/commerce/documentation/-/knowledge_base/1-0/taxes). Since these

@@ -1,4 +1,8 @@
-# Displaying Category Pages [](id=displaying-category-pages)
+---
+header-id: displaying-category-pages
+---
+
+# Displaying Category Pages
 
 Users have two options for displaying the contents of a category on a page. You
 can manually create a category display page for each category, or you can create
@@ -15,7 +19,7 @@ attention.
 Once your categories have pages, the Category Navigation widget can be used to
 help buyers easily find the products they want.
 
-## Creating a Default Category Page [](id=creating-a-default-category-page)
+## Creating a Default Category Page
 
 Follow these steps to create a single generic page to display category content:
 
@@ -39,18 +43,14 @@ a *Commerce Search Results* widget automatically displays products from the
 appropriate category when the page is viewed. Related widgets, such as *Option
 Facets* or *Specification Option Facets*, filter search results.
 
-+$$$
+| **Note:** The commerce category navigation widget must be configured to link to
+| the category page. Once the widget is on a page, open its *Configuration*
+| dialog. From the *Vocabulary* drop-down, select the vocabulary that contains
+| your product category tree. See
+| [Product Categories](/web/commerce/documentation/-/knowledge_base/1-0/product-categories)
+| for more detail.
 
-**Note:** The commerce category navigation widget must be configured to link to
-the category page. Once the widget is on a page, open its *Configuration*
-dialog. From the *Vocabulary* drop-down, select the vocabulary that contains
-your product category tree. See 
-[Product Categories](/web/commerce/documentation/-/knowledge_base/1-0/product-categories)
-for more detail.
-
-$$$
-
-## Creating an Individual Category Page [](id=creating-an-individual-category-page)
+## Creating an Individual Category Page
 
 To create a unique page for a single category, follow these steps:
 

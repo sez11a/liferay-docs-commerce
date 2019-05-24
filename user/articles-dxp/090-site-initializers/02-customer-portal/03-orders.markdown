@@ -1,10 +1,14 @@
-# Orders [](id=orders)
+---
+header-id: orders
+---
+
+# Orders
 
 The Beryl Customer Portal permits customers to take a hands-on approach to
 managing orders. Buyers can create, edit and submit orders, while order managers
 can choose to approve, reject or delete them.
 
-## Creating and Editing Orders [](id=creating-and-editing-orders)
+## Creating and Editing Orders
 
 A buyer or order manager can place an order by selecting items from the
 *Catalog* tab, clicking on the *Cart* button at the top right, and then clicking
@@ -16,7 +20,7 @@ Order*. If more than one order is open, users can select the one they want by
 clicking the ![Options](../../../images/icon-options.png) button next to the
 desired order and selecting *Set as Current.*
 
-## Workflow [](id=workflow)
+## Workflow
 
 By enabling workflow, you can require that orders be approved by designated
 users before they are placed. Follow these steps:

@@ -1,4 +1,8 @@
-# Attachments [](id=attachments)
+---
+header-id: attachments
+---
+
+# Attachments
 
 An attachment is any kind of file that you want customers to be able to download
 before they purchase. For instance, you can post a .pdf of a user manual, or

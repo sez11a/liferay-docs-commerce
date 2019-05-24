@@ -1,4 +1,8 @@
-# Images [](id=images)
+---
+header-id: images
+---
+
+# Images
 
 A product image or video is a media file that has a relationship to a particular
 product. This relationship can be used to ensure that the appropriate images are
@@ -27,7 +31,7 @@ Follow these steps to create a product image:
     period of time, specify display and expiration dates in the *Schedule*
     section at the bottom of the form. Click *Publish.*
 
-## Default Product Images [](id=default-product-images)
+## Default Product Images
 
 If a default image has been set, the *Product Detail* widget displays it for
 products published without images of their own.

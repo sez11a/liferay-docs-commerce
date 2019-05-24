@@ -1,4 +1,8 @@
-# Options [](id=options)
+---
+header-id: options
+---
+
+# Options
 
 An *option* is a product feature that a buyer can select or specify. An option
 could prompt a buyer to choose between T-shirts of different colors, building
@@ -16,18 +20,14 @@ sizes, then the template would be defined as *Size*.
 example, an option template called *Size* can be assigned the option values
 *Small*, *Medium*, and *Large*.
 
-+$$$
-
-**Note**: not every option requires option values. Values allow buyers to choose
-from among preset variants. Values are not required for options that are
-open-ended: for instance, the buyer can be prompted to enter custom text to be
-printed or engraved on the product, or asked to provide schematics of a custom
-product for fabrication or 3D-printing.
-
-You can select whether an option template requires values when you set its field
-type (see below).
-
-$$$
+| **Note**: not every option requires option values. Values allow buyers to choose
+| from among preset variants. Values are not required for options that are
+| open-ended: for instance, the buyer can be prompted to enter custom text to be
+| printed or engraved on the product, or asked to provide schematics of a custom
+| product for fabrication or 3D-printing.
+| 
+| You can select whether an option template requires values when you set its field
+| type (see below).
 
 An option template can be applied to any product in the catalog. This makes it
 easy to apply frequently-used options to a large number of products. Once
@@ -36,7 +36,7 @@ changes don't affect the product, and product changes don't affect the template.
 This allows each product's options to be customized, and it ensures that those
 customizations aren't unintentionally changed by future template changes.
 
-## Creating an Option Template [](id=creating-an-option-template)
+## Creating an Option Template
 
 Follow these steps to create a new option template:
 
@@ -91,7 +91,7 @@ this field is filled automatically, most users can safely leave it alone.
 Once an option has been created and saved, it is displayed in the list on the
 left side of the screen.
 
-## Creating Option Values [](id=creating-option-values)
+## Creating Option Values
 
 Depending on the Field Type you specified when you created your template, you
 may need to create values for your option. 
@@ -120,7 +120,7 @@ These values apply to every product where the template is applied. You can
 override these values for individual products when you 
 [apply the template to a product](/web/commerce/documentation/-/knowledge_base/1-0/adding-options-to-products).
 
-## Adding Custom Option Field Types [](id=adding-custom-option-field-types)
+## Adding Custom Option Field Types
 
 The field types used by Option Templates (see [Creating an Option
 Template](#creating-an-option-template), above) are the same as those used by

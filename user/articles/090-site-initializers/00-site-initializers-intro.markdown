@@ -1,4 +1,8 @@
-# Accelerators [](id=accelerators)
+---
+header-id: accelerators
+---
+
+# Accelerators
 
 An Accelerator is a type of Site template that does much of the work of
 setting up a store. An Accelerator is a convenient sandbox for gaining
@@ -8,7 +12,7 @@ Site.
 Typically, an Accelerator gives you a theme, a set of customer-facing pages
 with a working interface, and a sample catalog.
 
-## Accelerating a Site [](id=accelerating-a-site)
+## Accelerating a Site
 
 To set up a Site using an Accelerator, follow these steps:
 

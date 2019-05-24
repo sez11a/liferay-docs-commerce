@@ -1,4 +1,8 @@
-# Account Management [](id=account-management)
+---
+header-id: account-management
+---
+
+# Account Management
 
 The Beryl Customer Portal's distinguishing feature is its account management
 system. In a B2C scenario, product selection, order placement, and payment are
@@ -8,7 +12,7 @@ that selection, and yet another might handle payment. By setting up a unique
 account not for each user but for each customer organization, you can help
 multiple users with different roles to collaborate on the buying process.
 
-## Setting up an Account [](id=setting-up-an-account)
+## Setting up an Account
 
 An account is a type of Organization---specifically a sub-organization---which
 has as its parent your store Site's Organization.
@@ -27,15 +31,11 @@ To set up a new account, follow these steps:
 3.  Complete the *Add Account* form, just as you would to create an
     [Organization](/discover/portal/-/knowledge_base/7-1/managing-organizations).
 
-+$$$
+| *Note:* When you open your store Site's Organization, three demo accounts
+| appear. You can use them to explore the Site, edit them and assign them to
+| customers, or delete them.
 
-*Note:* When you open your store Site's Organization, three demo accounts
-appear. You can use them to explore the Site, edit them and assign them to
-customers, or delete them.
-
-$$$
-
-## Adding Users to an Account [](id=adding-users-to-an-account)
+## Adding Users to an Account
 
 Follow these steps to assign existing users to an account:
 
@@ -61,7 +61,7 @@ Follow these steps to add a new user to an account:
 3.  Fill out the *Add User* form. At minimum enter a first and last name,
     a screen name, and an email address. Click *Save*.
 
-## Account Roles [](id=account-roles)
+## Account Roles
 
 Once you have added users to an account, you must assign Roles to them. Roles
 can be customized any way you want (see 

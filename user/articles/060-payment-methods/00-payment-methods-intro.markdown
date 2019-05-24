@@ -1,11 +1,15 @@
-# Payment Methods [](id=payment-methods)
+---
+header-id: payment-methods
+---
+
+# Payment Methods
 
 @commerce@ offers two payment methods---money order and purchase order---that do
 not require the services of a third-party payment provider. Integration with
 payment providers is also possible, with one---PayPal---ready to go out of the
 box.
 
-## Money Order [](id=money-order)
+## Money Order
 
 While there are obvious downsides to money orders---starting with the time it
 takes to deliver payment through the mail---the payments are widely used in some
@@ -34,7 +38,7 @@ customers to pay by money order:
 
 3.  Set the *Active* toggle to *yes* and click *Save*.
 
-## Purchase Order [](id=purchase-order)
+## Purchase Order
 
 Purchase orders require providing buyers with an order form, and then invoicing
 them after the form is submitted. Follow these steps to let buyers pay by
@@ -65,15 +69,11 @@ purchase order:
 3.  Set the *Active* toggle to *yes* and click *Save*.
 
 
-+$$$
+| **Note:** This process does not give buyers an order form or enable buyers to
+| submit that order form back to the seller. See
+| [Forms](/discover/portal/-/knowledge_base/7-1/forms)for more detail.
 
-**Note:** This process does not give buyers an order form or enable buyers to
-submit that order form back to the seller. See
-[Forms](/discover/portal/-/knowledge_base/7-1/forms)for more detail.
-
-$$$
-
-## PayPal [](id=paypal)
+## PayPal
 
 Follow these steps let buyers pay with PayPal:
 

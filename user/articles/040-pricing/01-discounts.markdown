@@ -1,4 +1,8 @@
-# Discounts [](id=discounts)
+---
+header-id: discounts
+---
+
+# Discounts
 
 A discount applies a modifier to a product's base price. It can be an absolute
 number or a percentage, and can be applied to a limited number of products or to
@@ -7,7 +11,7 @@ the entire catalog. It can be available to all buyers or to a defined
 or to a more narrowly defined group of customers that meet certain
 qualifications. Unlike a price list, a discount always *reduces* the base price.
 
-## Creating a Discount [](id=creating-a-discount)
+## Creating a Discount
 
 1.  Go to *Site Menu* &rarr; *Commerce* &rarr; *Discounts* and click on the
     ![Add](../../images/icon-add.png) button at the top right.
@@ -25,7 +29,7 @@ qualifications. Unlike a price list, a discount always *reduces* the base price.
     then click *Select*. Choose any number of categories and click *Done*. Then
     click *Save*.
 
-## Adding Rules to a Discount [](id=adding-rules-to-a-discount)
+## Adding Rules to a Discount
 
 You can create rules that limit the buyer's discount conditions. There are three
 types of rules:
@@ -55,7 +59,7 @@ Follow these steps:
 
 5.  Click *Save*.
 
-## Add Discount Form [](id=add-discount-form)
+## Add Discount Form
 
 The *Add Discount* form contains the following fields:
 

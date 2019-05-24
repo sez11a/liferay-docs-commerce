@@ -1,4 +1,8 @@
-# Handling Low Inventories [](id=handling-low-inventories)
+---
+header-id: handling-low-inventories
+---
+
+# Handling Low Inventories
 
 On a product's
 [*Configuration*](/web/commerce/documentation/-/knowledge_base/1-0/configuration)

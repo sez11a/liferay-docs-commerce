@@ -1,4 +1,8 @@
-# Custom Checkout Step [](id=custom-checkout-step)
+---
+header-id: custom-checkout-step
+---
+
+# Custom Checkout Step
 
 @commerce@'s checkout process involves several steps. Out of the box, the first
 few steps collect information (billing address, shipping address, etc.) from the

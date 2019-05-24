@@ -1,4 +1,8 @@
-# Catalog Management [](id=catalog-management)
+---
+header-id: catalog-management
+---
+
+# Catalog Management
 
 The @commerce@ catalog is at the heart of any store site, storing and organizing
 its core content. It lists the products the store offers, and stores the

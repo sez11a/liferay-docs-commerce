@@ -1,4 +1,8 @@
-# Getting Started with @commerce@ [](id=getting-started)
+---
+header-id: getting-started
+---
+
+# Getting Started with @commerce@
 
 @commerce@ is a digital commerce platform built from the ground up to work with
 @product@, making it easy to leverage a fully integrated content management
@@ -6,7 +10,7 @@ system and best-in-breed portal capabilities in commerce websites. Any website
 built with @product-ver@ can be integrated seamlessly with a store built with
 @commerce@.
 
-## Overview [](id=overview)
+## Overview
 
 @commerce@ contains a 
 [catalog management](/web/commerce/documentation/-/knowledge_base/1-0/catalog-management)
@@ -62,7 +66,7 @@ separately and automatically. When an order is placed, @commerce@ determines
 which warehouse is closest to the delivery point and processes the order
 accordingly.
 
-## Installation [](id=installation)
+## Installation
 
 Enterprise subscribers with a Liferay Commerce order can install from the 
 [Help Center](https://web.liferay.com/group/customer/dxp/downloads/commerce).
@@ -124,7 +128,7 @@ follow these steps:
 Once you've completed these steps, it's a good practice to go to *Control
 Panel* &rarr; *Configuration* &rarr; *Search* and reindex all search indexes.
 
-## Accelerators [](id=accelerators)
+## Accelerators
 
 The quickest way to get going with @commerce@ is to use an Accelerator.
 An accelerator is a type of 

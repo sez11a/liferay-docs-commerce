@@ -1,4 +1,8 @@
-# Setting up a Storefront [](id=setting-up-a-storefront)
+---
+header-id: setting-up-a-storefront
+---
+
+# Setting up a Storefront
 
 Once the catalog is populated, you need a way to display its contents to buyers,
 along with an interface for placing orders. If you choose not to use an Accelerator 
@@ -23,7 +27,7 @@ The product and product category landing pages are described in
 and [Displaying Category
 Pages](/web/commerce/documentation/-/knowledge_base/1-0/displaying-category-pages).
 
-## Shopping Cart [](id=shopping-cart)
+## Shopping Cart
 
 The product detail widget (see 
 [Displaying Product Pages](/web/commerce/documentation/-/knowledge_base/1-0/displaying-product-pages))
@@ -58,7 +62,7 @@ Follow these steps to set up a cart:
     compact *Commerce Cart Content Mini*, which provides quick reference to the
     cart as well as a link to the main cart page.
 
-## Checkout [](id=checkout)
+## Checkout
 
 The purchase process is handled by a *Commerce Checkout* widget. Follow
 these steps:
@@ -78,24 +82,20 @@ and
 additional steps are added automatically to the checkout portlet's process,
 prompting users to select one of each.
 
-## Search [](id=search)
+## Search
 
 The Commerce *Search Results* widget displays a product list resulting from
 search. There are two ways to populate search results with products: by clicking
 on a link in a *Commerce Category Navigation* widget, or by entering search
 terms in a *Search Bar* widget.
 
-+$$$
+| **Note:** the Commerce search results widget (found in *Add Menu* &rarr;
+| *Widgets* &rarr; *Commerce*) is not the same as the regular search results
+| widget (in *Add Menu* &rarr; *Widgets* &rarr; *Search*). The regular widget
+| searches all indexed material---web content, blogs, documents, etc.---while the
+| commerce version only searches products in the catalog.
 
-**Note:** the Commerce search results widget (found in *Add Menu* &rarr;
-*Widgets* &rarr; *Commerce*) is not the same as the regular search results
-widget (in *Add Menu* &rarr; *Widgets* &rarr; *Search*). The regular widget
-searches all indexed material---web content, blogs, documents, etc.---while the
-commerce version only searches products in the catalog.
-
-$$$
-
-### Category Navigation [](id=category-navigation)
+### Category Navigation
 
 Category navigation always searches by category. When a user clicks on
 a link in the navigation widget, the appropriate category page is displayed. If
@@ -104,7 +104,7 @@ to that category. See
 [Displaying Category Pages](/web/commerce/documentation/-/knowledge_base/1-0/displaying-category-pages)
 for details.
 
-### The Search Bar [](id=the-search-bar)
+### The Search Bar
 
 In contrast, a search bar takes entered search terms and displays appropriate
 products in the results widget. See 
@@ -114,7 +114,7 @@ assume the use of the standard search results widget. To search the catalog for
 products, you must use the Commerce search results widget instead, but the
 process is otherwise the same.
 
-### Search Facets [](id=search-facets)
+### Search Facets
 
 Regardless of whether users click on links to categories or type keywords into
 a search bar, they need a way to filter their results. Search facet widgets
@@ -128,7 +128,7 @@ portlet to filter results by
 or [option](/web/commerce/documentation/-/knowledge_base/1-0/options),
 respectively.
 
-## Compare Products [](id=compare-products)
+## Compare Products
 
 The product comparison feature displays the details of multiple products on
 a single page. Follow these steps to enable this feature:

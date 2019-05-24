@@ -1,4 +1,8 @@
-# Restrictions [](id=restrictions)
+---
+header-id: restrictions
+---
+
+# Restrictions
 
 Regardless of your shipping methods, you can apply restrictions. A restriction
 disables a shipping method for shipments to selected countries or regions. To

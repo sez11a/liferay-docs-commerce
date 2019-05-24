@@ -1,4 +1,8 @@
-# Creating a Custom Product Renderer [](id=creating-a-custom-product-renderer)
+---
+header-id: creating-a-custom-product-renderer
+---
+
+# Creating a Custom Product Renderer
 
 Like any other widget in @product@, the appearance of the Product Details
 Widget can be customized using an 

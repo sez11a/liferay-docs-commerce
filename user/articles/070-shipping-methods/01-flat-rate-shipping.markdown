@@ -1,4 +1,8 @@
-# Flat Rate Shipping [](id=fixed-shipping-method)
+---
+header-id: fixed-shipping-method
+---
+
+# Flat Rate Shipping
 
 Buyers can choose a flat rate shipping option to ship any product. By creating
 multiple flat rate options, you can give customers choices of cost, speed, or
@@ -10,7 +14,7 @@ Price* field in the product's
 [Configuration](/web/commerce/documentation/-/knowledge_base/1-0/configuration#shipping)
 tab.
 
-## Creating a Flat Rate Shipping Option [](id=creating-a-flat-rate-shipping-option)
+## Creating a Flat Rate Shipping Option
 
 1.  Go to *Site Menu* &rarr; *Commerce* &rarr; *Settings* and click the
     *Shipping Methods* tab. Choose the *Flat Rate* method and then the *Shipping

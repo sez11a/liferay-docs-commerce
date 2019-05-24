@@ -1,4 +1,8 @@
-# SKUs [](id=skus)
+---
+header-id: skus
+---
+
+# SKUs
 
 The catalog stores pricing, inventory, and other information by attaching it to
 a SKU, or Stock Keeping Unit. A SKU is an alphanumeric code representing
@@ -17,24 +21,20 @@ different variants if it has been assigned options which are SKU contributors
 details). Giving a SKU to each variant allows the inventory engine to track each
 variant individually. It also lets you set a unique price for each variant.
 
-+$$$
-
-When should an option be a SKU contributor? If a product is available in
-a variety of colors, the option to select a color must be a SKU contributor in
-order for the inventory engine to track each color separately. Using a SKU
-contributor in this case also allows prices to vary by color.
-
-Alternatively, suppose a store offered free gift-wrapping for some products. The
-gift-wrap option would not be a SKU contributor, as neither pricing nor
-inventory are affected.
-
-$$$
+| When should an option be a SKU contributor? If a product is available in
+| a variety of colors, the option to select a color must be a SKU contributor in
+| order for the inventory engine to track each color separately. Using a SKU
+| contributor in this case also allows prices to vary by color.
+| 
+| Alternatively, suppose a store offered free gift-wrapping for some products. The
+| gift-wrap option would not be a SKU contributor, as neither pricing nor
+| inventory are affected.
 
 Since the product variant a SKU represents is defined by a combination of
 [options](/web/commerce/documentation/-/knowledge_base/1-0/options),
 all options should be finalized before creating or editing SKUs.
 
-## Creating a SKU [](id=creating-a-sku)
+## Creating a SKU
 
 When you create a product, a single SKU called *default* is created. For
 products that require only one SKU, the default is all that is needed. To
@@ -52,23 +52,19 @@ If a product requires multiple SKUs, then you must add them. Follow these steps:
     Alternatively, you could create a single SKU by selecting *Add SKU*, but
     keep in mind that any product variant without a SKU is not purchasable.
 
-+$$$
+| When you create new SKUs, the default SKU is set automatically to *Inactive*.
+| However, if you reactivate it (click on the SKU and click *Publish*), the
+| default SKU's price appears on the product page when no options have been
+| selected.
 
-When you create new SKUs, the default SKU is set automatically to *Inactive*.
-However, if you reactivate it (click on the SKU and click *Publish*), the
-default SKU's price appears on the product page when no options have been
-selected.
-
-$$$
-
-## Editing a SKU [](id=editing-a-sku)
+## Editing a SKU
 
 When you create a SKU or click ![Options](../../../images/icon-options.png)
 &rarr; *Edit* to the right of an existing one, a new column of tabs appears. 
 
 ![Figure 2:An SKU's functions are accessed through these tabs.](../../../images/skus.png)
 
-### Details [](id=details)
+### Details
 
 The *Details* tab mirrors the *Add SKU* form that appears when a single SKU is
 created. It contains the following fields:
@@ -93,7 +89,7 @@ auto-filled for generated SKUs.
 to buyers only for a limited time. To publish immediately and permanently, check
 both the *Published* and *Never Expire* boxes.
 
-### Pricing [](id=pricing)
+### Pricing
 
 The *Pricing* tab contains three fields:
 
@@ -105,7 +101,7 @@ more on overriding the base price.
 
 **Cost:** Enter seller's costs to help track margins.
 
-### Price Lists [](id=price-lists)
+### Price Lists
 
 Price lists set special prices for certain user segments. To add a SKU to
 a price list, go to the *Price Lists* tab:
@@ -122,7 +118,7 @@ a price list, go to the *Price Lists* tab:
 For more information on creating and using price lists, see 
 [Price Lists](/web/commerce/documentation/-/knowledge_base/1-0/price-lists). 
 
-### Inventory [](id=inventory)
+### Inventory
 
 The *Inventory* tab has one field for each warehouse you have in use (if you
 use more than one warehouse, see
@@ -130,7 +126,7 @@ use more than one warehouse, see
 Enter the number in stock at each warehouse. The quantity is adjusted
 automatically as orders are processed.
 
-### Shipping Adjustment [](id=shipping-adjustment)
+### Shipping Adjustment
 
 A product's shipping rate may be adjusted based on its weight or dimensions,
 which are set in *Configuration* tab &rarr; *Shipping*. To override these

@@ -1,4 +1,8 @@
-# Taxes [](id=taxes)
+---
+header-id: taxes
+---
+
+# Taxes
 
 Collecting taxes is accomplished by *Tax Categories* and *Tax Calculations*.
 
@@ -8,7 +12,7 @@ calculated as a *fixed* rate or *by address*.
 A **Tax Category** is a container for one or more tax calculations. Products can
 be taxed differently by assigning different tax categories to them.
 
-## Tax Categories [](id=tax-categories)
+## Tax Categories
 
 To apply any tax rate, you must first have at least one tax category. Follow
 these steps:
@@ -23,13 +27,13 @@ See
 [Configuration](/web/commerce/documentation/-/knowledge_base/1-0/configuration#tax-category)
 for more on how to assign a tax category to a product.
 
-## Calculating Taxes [](id=calculating-taxes)
+## Calculating Taxes
 
 There are two kinds of tax calculations: fixed and by address. The fixed method
 applies the same rate to a product each time it is purchased, while the by
 address method applies only to buyers within a specified geographical region.
 
-### Setting a Fixed Tax Rate [](id=creating-a-fixed-tax-method)
+### Setting a Fixed Tax Rate
 
 A fixed tax method sets rates for each tax category independently. The
 tax collected then depends on the tax category assigned to a product. Follow
@@ -48,7 +52,7 @@ these steps:
 5.  Click the *Tax Rates* sub-tab. This displays a *Rate* field for each tax
     category. Fill in each field and hit *Save*.
 
-### Calculating Taxes by Address [](id=creating-a-by-address-tax-method)
+### Calculating Taxes by Address
 
 Calculating taxes by address sets rates for geographical areas independently.
 You can apply several by address rates to a single tax category. When a product

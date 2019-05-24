@@ -1,4 +1,8 @@
-# Shipments [](id=shipments)
+---
+header-id: shipments
+---
+
+# Shipments
 
 When a customer places an order, it must be placed into a shipment. An order can
 be packaged as a single shipment or broken into multiple shipments (support for

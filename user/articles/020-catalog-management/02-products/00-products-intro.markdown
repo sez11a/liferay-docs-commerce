@@ -1,4 +1,8 @@
-# Products [](id=products)
+---
+header-id: products
+---
+
+# Products
 
 The catalog supports three product types: simple, grouped and virtual.
 
@@ -17,7 +21,7 @@ downloaded rather than shipped, as in the case of a music file or an electronic
 publication. Other virtual products might be services, warranties, or other
 goods.
 
-## Creating a Product [](id=creating-a-product)
+## Creating a Product
 
 Follow these steps to create a product:
 
@@ -78,7 +82,7 @@ sample.
 integrated editor, or select a document previously uploaded to Web
 Content.
 
-### Add Product Form [](id=add-product-form)
+### Add Product Form
 
 The *Add Product* form contains the following fields:
 

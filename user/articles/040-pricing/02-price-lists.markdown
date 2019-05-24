@@ -1,4 +1,8 @@
-# Price Lists [](id=price-lists)
+---
+header-id: price-lists
+---
+
+# Price Lists
 
 A price list contains a list of products with alternate prices from what's
 stored by the catalog. The prices stored by the list are only available
@@ -11,7 +15,7 @@ could impose higher prices to reflect additional costs involved in doing
 business with certain buyers, or it might allow buyers to make purchases using
 a currency other than the store's default.
 
-## Creating a Price List [](id=creating-a-price-list)
+## Creating a Price List
 
 1.  Go to *Site Menu* &rarr; *Commerce* &rarr; *Price Lists* and click on the
     ![Add](../../images/icon-add.png) button at the top right.
@@ -32,7 +36,7 @@ segments that should have access to this price list. Then click *Add*.
 **Schedule:** Enter a date range for when the list is active. Check *Never
 Expire* to make it permanent.
 
-## Populating a Price List [](id=populating-a-price-list)
+## Populating a Price List
 
 You may have published a price list, but you haven't yet had a chance to add any
 products to it. Follow these steps:
@@ -54,18 +58,14 @@ products to it. Follow these steps:
 
 4.  Repeat step 3 until a price has been set for all SKUs you added in step 2.
 
-+$$$
+| There are two ways to add entries to a price list. Besides the method just
+| described, you can also add a product from the SKU tab in its catalog entry (see
+| [SKUs](web/commerce/documentation/-/knowledge_base/7-1/adding-options-to-productsl#price-lists)).
+| In general, the method described here is more efficient for adding a large
+| number of products to a new list. When creating a new product, however, it's
+| usually easier to add it to existing price lists from the Catalog's SKU tab.
 
-There are two ways to add entries to a price list. Besides the method just
-described, you can also add a product from the SKU tab in its catalog entry (see
-[SKUs](web/commerce/documentation/-/knowledge_base/7-1/adding-options-to-productsl#price-lists)).
-In general, the method described here is more efficient for adding a large
-number of products to a new list. When creating a new product, however, it's
-usually easier to add it to existing price lists from the Catalog's SKU tab.
-
-$$$
-
-## Tiered Pricing [](id=tiered-pricing)
+## Tiered Pricing
 
 Price lists make possible pricing tiers that unlock lower prices for bulk
 buyers. Specify a price and a minimum quantity necessary to unlock that price.

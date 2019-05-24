@@ -1,4 +1,8 @@
-# Specifications [](id=specifications)
+---
+header-id: specifications
+---
+
+# Specifications
 
 A specification stores a single piece of product information. A product's
 dimensions, color, weight, capacity, or almost any other attribute can be
@@ -22,7 +26,7 @@ above, 1920x1080 is a value.
 
 ![Figure 2: Specification groups and labels exist independently of products, but values do not.](../../images/specs-2x.png)
 
-## Specification Groups [](id=specification-groups)
+## Specification Groups
 
 Follow these steps to create a specification group:
 
@@ -45,7 +49,7 @@ this field is filled automatically, most users can safely leave it alone.
 
 Once the form is complete, click *Save*.
 
-## Specification Labels [](id=specification-labels)
+## Specification Labels
 
 Follow these steps to create a specification label:
 
@@ -70,7 +74,7 @@ are defined (see below for details).
 Click *Save*. The label has been created, but assigning a value to it must
 be done on the product level.
 
-## Specification Values [](id=specification-values)
+## Specification Values
 
 Specification values are more limited in scope than groups and labels. Groups
 and labels are scoped to the catalog, which means that once they are created,

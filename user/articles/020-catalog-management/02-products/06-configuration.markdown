@@ -1,4 +1,8 @@
-# Configuration [](id=configuration)
+---
+header-id: configuration
+---
+
+# Configuration
 
 A product's configuration governs how it is displayed and transacted. You can
 configure how the product's inventory is handled, the conditions under which it
@@ -8,7 +12,7 @@ To get to a product's configuration page, go to the catalog, select a product,
 and click on the *Configuration* tab. This page has four more tabs of its own:
 Inventory, Shipping, Display Page, and Tax Category.
 
-## Inventory [](id=inventory)
+## Inventory
 
 The Inventory tab controls how a product's inventory data is tracked and
 communicated to buyers. It contains these fields:
@@ -54,7 +58,7 @@ entered. An entry of "2, 4, 6" allows buyers to purchase only those quantities.
 **Multiple Order Quantity:** Only permit order quantities that are multiples of
 the number entered.
 
-## Shipping [](id=shipping)
+## Shipping
 
 The *Shipping* tab governs how shipping costs for a product are calculated. It
 contains these fields:
@@ -78,7 +82,7 @@ enter the product's weight. Other dimensions can be entered for reference
 purposes, or---with the development of custom code---to calculate shipping
 costs.
 
-## Display Page [](id=display-page)
+## Display Page
 
 Designating a unique product display page creates a relationship between the
 product and the specified page. For a less labor intensive way to create
@@ -98,7 +102,7 @@ This process creates a relationship between the product and a blank page. At any
 point, you can populate the page with whatever content or applications suit your
 purposes.
 
-## Tax Category [](id=tax-category)
+## Tax Category
 
 The *Tax Category* tab governs how a product's sales tax is calculated. It
 contains these fields:

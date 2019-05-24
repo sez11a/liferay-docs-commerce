@@ -1,4 +1,8 @@
-# Countries [](id=countries)
+---
+header-id: countries
+---
+
+# Countries
 
 @commerce@ stores a country list that appears wherever a user is prompted to
 enter a country (typically to enter a shipping or billing address). Go to *Site
@@ -22,7 +26,7 @@ and select a priority (priority determines where in a menu a country appears.
 Lowest numbers come first). You can also deactivate a country by unchecking the
 *Active* box. This removes the country from all menus.
 
-## Regions [](id=regions)
+## Regions
 
 You can add regions to countries so users can choose from a menu when entering
 an address. By default, regions are already in place for the USA and Italy.
