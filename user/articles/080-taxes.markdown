@@ -4,6 +4,8 @@ header-id: taxes
 
 # Taxes
 
+[TOC levels=1-4]
+
 Collecting taxes is accomplished by *Tax Categories* and *Tax Calculations*.
 
 A **Tax Calculation** determines how much tax is withheld. Taxes can be

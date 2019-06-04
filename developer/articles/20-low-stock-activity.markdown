@@ -4,6 +4,8 @@ header-id: handling-low-inventories
 
 # Handling Low Inventories
 
+[TOC levels=1-4]
+
 On a product's
 [*Configuration*](/web/commerce/documentation/-/knowledge_base/1-0/configuration)
 page, Site administrators can set a *Minimum Stock Quantity*, and select an

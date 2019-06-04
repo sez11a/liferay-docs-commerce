@@ -4,6 +4,8 @@ header-id: adding-options-to-products
 
 # Adding Options to Products
 
+[TOC levels=1-4]
+
 **An option** is a product feature that a buyer can select or specify. To create
 an option and apply it to a product, you must first create an 
 [option template](/web/commerce/documentation/-/knowledge_base/1-0/options). 

@@ -4,6 +4,8 @@ header-id: currencies
 
 # Currencies
 
+[TOC levels=1-4]
+
 Your store can use one or more currencies. Go to *Site Menu* &rarr; *Commerce*
 &rarr; *Settings* and click on the *Currencies* tab to view the currencies in
 the system.

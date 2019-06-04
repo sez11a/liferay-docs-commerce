@@ -4,6 +4,8 @@ header-id: getting-started
 
 # Getting Started with @commerce@
 
+[TOC levels=1-4]
+
 @commerce@ is a digital commerce platform built from the ground up to work with
 @product@, making it easy to leverage a fully integrated content management
 system and best-in-breed portal capabilities in commerce websites. Any website

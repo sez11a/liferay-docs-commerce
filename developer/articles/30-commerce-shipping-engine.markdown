@@ -4,6 +4,8 @@ header-id: creating-new-shipping-methods
 
 # Creating New Shipping Methods
 
+[TOC levels=1-4]
+
 @commerce@ includes three
 [shipping methods](/web/commerce/documentation/-/knowledge_base/1-0/shipping-methods)
 out of the box: *fixed*- and

@@ -4,6 +4,8 @@ header-id: configuration
 
 # Configuration
 
+[TOC levels=1-4]
+
 A product's configuration governs how it is displayed and transacted. You can
 configure how the product's inventory is handled, the conditions under which it
 can be sold, and any special circumstances involving shipping or taxes.

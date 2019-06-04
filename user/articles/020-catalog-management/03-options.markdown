@@ -4,6 +4,8 @@ header-id: options
 
 # Options
 
+[TOC levels=1-4]
+
 An *option* is a product feature that a buyer can select or specify. An option
 could prompt a buyer to choose between T-shirts of different colors, building
 materials of different dimensions, or engines of different displacements. 

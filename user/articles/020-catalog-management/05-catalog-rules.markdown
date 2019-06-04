@@ -4,6 +4,8 @@ header-id: catalog-rules
 
 # Catalog Rules
 
+[TOC levels=1-4]
+
 Catalog Rules manage the catalog's visibility. They work with [user
 segments](/web/commerce/documentation/-/knowledge_base/1-0/user-segmentation) to
 control what portions of the catalog a buyer can see. This can help focus the

@@ -4,6 +4,8 @@ header-id: price-lists
 
 # Price Lists
 
+[TOC levels=1-4]
+
 A price list contains a list of products with alternate prices from what's
 stored by the catalog. The prices stored by the list are only available
 to members of specified user segments. Other buyers must pay the base price

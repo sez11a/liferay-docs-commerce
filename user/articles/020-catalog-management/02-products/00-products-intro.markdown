@@ -4,6 +4,8 @@ header-id: products
 
 # Products
 
+[TOC levels=1-4]
+
 The catalog supports three product types: simple, grouped and virtual.
 
 **Simple Product:** any physical product for which inventory is tracked. Almost

@@ -4,6 +4,8 @@ header-id: pricing
 
 # Pricing
 
+[TOC levels=1-4]
+
 When all you want to do is assign one price to one SKU, you can handle pricing
 in the catalog (see 
 [SKUs](web/commerce/documentation/-/knowledge_base/7-1/skus#pricing)).

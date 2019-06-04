@@ -4,6 +4,8 @@ header-id: notifications
 
 # Notifications
 
+[TOC levels=1-4]
+
 Notifications are automated emails sent to buyers. By default, notifications can
 only be sent to inform buyers when an order has been received, but an extension
 point lets you develop other notifications: for a shipped order, a restocked

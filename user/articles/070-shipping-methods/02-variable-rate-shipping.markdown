@@ -4,6 +4,8 @@ header-id: variable-rate-shipping
 
 # Variable Rate Shipping
 
+[TOC levels=1-4]
+
 Variable rate shipping calculates shipping costs using three factors: the
 order's weight, its subtotal (cost before shipping and taxes), and any fixed
 price you impose. You choose the priority of each factor. 

@@ -4,6 +4,8 @@ header-id: restrictions
 
 # Restrictions
 
+[TOC levels=1-4]
+
 Regardless of your shipping methods, you can apply restrictions. A restriction
 disables a shipping method for shipments to selected countries or regions. To
 apply a restriction, go to a shipping method and click the *Restrictions* tab.

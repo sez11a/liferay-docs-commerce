@@ -4,6 +4,8 @@ header-id: payment-methods
 
 # Payment Methods
 
+[TOC levels=1-4]
+
 @commerce@ offers two payment methods---money order and purchase order---that do
 not require the services of a third-party payment provider. Integration with
 payment providers is also possible, with one---PayPal---ready to go out of the

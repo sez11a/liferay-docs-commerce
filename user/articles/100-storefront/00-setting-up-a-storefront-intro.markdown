@@ -4,6 +4,8 @@ header-id: setting-up-a-storefront
 
 # Setting up a Storefront
 
+[TOC levels=1-4]
+
 Once the catalog is populated, you need a way to display its contents to buyers,
 along with an interface for placing orders. If you choose not to use an Accelerator 
 such as Breccia, you must set this up manually. 

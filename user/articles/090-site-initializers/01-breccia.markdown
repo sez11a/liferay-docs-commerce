@@ -4,6 +4,8 @@ header-id: breccia
 
 # Breccia
 
+[TOC levels=1-4]
+
 The Breccia Accelerator adopts the site model used by most major retailers.
 Its home page enables searching for individual products, while a series of
 links connect to product category pages. Familiar cart and checkout features

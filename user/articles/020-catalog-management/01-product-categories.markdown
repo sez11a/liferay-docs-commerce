@@ -4,6 +4,8 @@ header-id: product-categories
 
 # Product Categories
 
+[TOC levels=1-4]
+
 Products can be organized into *Categories*. These groupings allow multiple
 products to be handled as a single unit. For example, a product category could
 be used to apply discounts or other offers to a set of products, to assist

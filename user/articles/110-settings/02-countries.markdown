@@ -4,6 +4,8 @@ header-id: countries
 
 # Countries
 
+[TOC levels=1-4]
+
 @commerce@ stores a country list that appears wherever a user is prompted to
 enter a country (typically to enter a shipping or billing address). Go to *Site
 Menu* &rarr; *Commerce* &rarr; *Settings* and click on the *Countries* tab to

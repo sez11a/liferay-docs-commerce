@@ -4,6 +4,8 @@ header-id: creating-a-custom-product-renderer
 
 # Creating a Custom Product Renderer
 
+[TOC levels=1-4]
+
 Like any other widget in @product@, the appearance of the Product Details
 Widget can be customized using an 
 [Application Display Template](discover/portal/-/knowledge_base/7-1/styling-widgets-with-application-display-templates).

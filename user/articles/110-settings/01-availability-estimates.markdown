@@ -4,6 +4,8 @@ header-id: availability-estimates
 
 # Availability Estimates
 
+[TOC levels=1-4]
+
 When an item is out of stock, you must communicate to buyers an availability
 estimate. You can provide that information by selecting a time frame from
 a drop-down menu.

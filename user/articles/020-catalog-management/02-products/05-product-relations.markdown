@@ -4,6 +4,8 @@ header-id: product-relations
 
 # Product Relations
 
+[TOC levels=1-4]
+
 Product relations can be used to connect products irrespective of category,
 typically for the purpose of displaying links to one product on the detail page
 of another.

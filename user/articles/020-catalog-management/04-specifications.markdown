@@ -4,6 +4,8 @@ header-id: specifications
 
 # Specifications
 
+[TOC levels=1-4]
+
 A specification stores a single piece of product information. A product's
 dimensions, color, weight, capacity, or almost any other attribute can be
 recorded as a specification. Specifications make it easy to present product

@@ -4,6 +4,8 @@ header-id: user-segmentation
 
 # User Segmentation
 
+[TOC levels=1-4]
+
 User Segmentation organizes users into groups, so price lists, discounts, and
 other features can be precisely targeted to those users.
 

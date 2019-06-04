@@ -4,6 +4,8 @@ header-id: creating-new-tax-methods
 
 # Creating New Tax Methods
 
+[TOC levels=1-4]
+
 Out of the box, @commerce@ offers two methods for calculating
 [taxes](/web/commerce/documentation/-/knowledge_base/1-0/taxes). Since these
 options may not meet every user's needs, @commerce@ exposes an extension point,

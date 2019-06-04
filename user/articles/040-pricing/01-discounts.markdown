@@ -4,6 +4,8 @@ header-id: discounts
 
 # Discounts
 
+[TOC levels=1-4]
+
 A discount applies a modifier to a product's base price. It can be an absolute
 number or a percentage, and can be applied to a limited number of products or to
 the entire catalog. It can be available to all buyers or to a defined 

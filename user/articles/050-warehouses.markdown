@@ -4,6 +4,8 @@ header-id: warehouses
 
 # Warehouses
 
+[TOC levels=1-4]
+
 Initially, inventory levels for all products must be entered manually. From then
 on, inventory levels are tracked automatically as orders are filled. To set
 a product's inventory level, see

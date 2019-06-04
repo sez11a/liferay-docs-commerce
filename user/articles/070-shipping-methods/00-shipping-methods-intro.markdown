@@ -4,6 +4,8 @@ header-id: shipping-methods
 
 # Shipping Methods
 
+[TOC levels=1-4]
+
 When buyers place orders, they should be prompted to choose among a variety of
 shipping options. You can create as many shipping options as you like, but they
 all calculate shipping costs using one of three methods:

@@ -4,6 +4,8 @@ header-id: shipments
 
 # Shipments
 
+[TOC levels=1-4]
+
 When a customer places an order, it must be placed into a shipment. An order can
 be packaged as a single shipment or broken into multiple shipments (support for
 combining multiple orders into a single shipment will be added at a later date).

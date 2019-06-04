@@ -4,6 +4,8 @@ header-id: settings
 
 # Settings
 
+[TOC levels=1-4]
+
 Several functions are accessed through the *Site Menu* &rarr; *Commerce* &rarr;
 *Settings*. Many of these are described elsewhere: 
 

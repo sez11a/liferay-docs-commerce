@@ -1,4 +1,10 @@
+---
+header-id: customizing-cart-validationidcustomizing-cart-validation
+---
+
 # Customizing Cart Validation[](id=customizing-cart-validation)
+
+[TOC levels=1-4]
 
 Whenever a buyer adds a product to his cart or attempts to checkout, @commerce@
 checks to make sure that the transaction is permissible. This tutorial describes

@@ -4,6 +4,8 @@ header-id: attachments
 
 # Attachments
 
+[TOC levels=1-4]
+
 An attachment is any kind of file that you want customers to be able to download
 before they purchase. For instance, you can post a .pdf of a user manual, or
 a video of a product demonstration.

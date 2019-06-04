@@ -4,6 +4,8 @@ header-id: custom-checkout-step
 
 # Custom Checkout Step
 
+[TOC levels=1-4]
+
 @commerce@'s checkout process involves several steps. Out of the box, the first
 few steps collect information (billing address, shipping address, etc.) from the
 buyer, while the final steps provide information (order summary, order

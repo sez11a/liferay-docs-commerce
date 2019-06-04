@@ -4,6 +4,8 @@ header-id: displaying-product-pages
 
 # Displaying Product Pages
 
+[TOC levels=1-4]
+
 Once the catalog is populated, it makes sense to start thinking about how to
 display its contents to buyers. In most cases, this means that each product must
 have a page of its own.

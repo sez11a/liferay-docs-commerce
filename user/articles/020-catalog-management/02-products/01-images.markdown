@@ -4,6 +4,8 @@ header-id: images
 
 # Images
 
+[TOC levels=1-4]
+
 A product image or video is a media file that has a relationship to a particular
 product. This relationship can be used to ensure that the appropriate images are
 displayed on product detail pages, in search results, or anywhere else

@@ -4,6 +4,8 @@ header-id: measurement-units
 
 # Measurement Units
 
+[TOC levels=1-4]
+
 @commerce@ comes with a number of common measurement units already defined, but
 if you or your shipping provider use different units, you may need to change the
 default settings.

@@ -4,6 +4,8 @@ header-id: creating-new-product-types
 
 # Creating New Product Types
 
+[TOC levels=1-4]
+
 @commerce@ supports three 
 [product types](/web/commerce/documentation/-/knowledge_base/1-0/product-types) 
 out of the box, but additional types can be created. This tutorial covers

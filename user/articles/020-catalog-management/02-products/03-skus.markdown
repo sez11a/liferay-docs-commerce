@@ -4,6 +4,8 @@ header-id: skus
 
 # SKUs
 
+[TOC levels=1-4]
+
 The catalog stores pricing, inventory, and other information by attaching it to
 a SKU, or Stock Keeping Unit. A SKU is an alphanumeric code representing
 a single product variant. A product must have at least one SKU to be purchased.

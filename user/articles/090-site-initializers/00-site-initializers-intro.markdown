@@ -4,6 +4,8 @@ header-id: accelerators
 
 # Accelerators
 
+[TOC levels=1-4]
+
 An Accelerator is a type of Site template that does much of the work of
 setting up a store. An Accelerator is a convenient sandbox for gaining
 familiarity with @commerce@, but it can also be a head start on setting up a live

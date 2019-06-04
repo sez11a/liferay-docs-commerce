@@ -4,6 +4,8 @@ header-id: displaying-category-pages
 
 # Displaying Category Pages
 
+[TOC levels=1-4]
+
 Users have two options for displaying the contents of a category on a page. You
 can manually create a category display page for each category, or you can create
 a single page to display content dynamically depending on the category

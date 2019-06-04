@@ -4,6 +4,8 @@ header-id: fixed-shipping-method
 
 # Flat Rate Shipping
 
+[TOC levels=1-4]
+
 Buyers can choose a flat rate shipping option to ship any product. By creating
 multiple flat rate options, you can give customers choices of cost, speed, or
 security.
