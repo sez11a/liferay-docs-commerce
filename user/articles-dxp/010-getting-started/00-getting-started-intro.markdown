@@ -72,7 +72,7 @@ Enterprise subscribers with a Liferay Commerce order can install from the
 [Help Center](https://web.liferay.com/group/customer/dxp/downloads/commerce).
 You need an order number that includes @commerce@ or an `.xml` activation key.
 You must also have @product-ver@; see installation instructions
-[here](/discover/deployment/-/knowledge_base/7-1/deploying-product).
+[here](/docs/7-1/deploy/-/knowledge_base/d/deploying-product).
 
 Once you've downloaded the @commerce@ `.lpkg`, follow these steps if you have an
 `.xml` key:
@@ -132,7 +132,7 @@ Panel* &rarr; *Configuration* &rarr; *Search* and reindex all search indexes.
 
 The quickest way to get going with @commerce@ is to use an Accelerator.
 An accelerator is a type of 
-[Site Template]( /discover/portal/-/knowledge_base/7-1/building-sites-from-templates)
+[Site Template]( /docs/7-1/user/-/knowledge_base/u/building-sites-from-templates)
 that does much of the initial work of setting up a store. Creating a Site with
 an Accelerator is an easy way to see what @commerce@ can do, and can be used
 to get a head start on a live store: modify the theme to suit your purposes,

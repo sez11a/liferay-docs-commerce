@@ -73,7 +73,7 @@ purchase order:
 
 | **Note:** This process does not give buyers an order form or enable buyers to
 | submit that order form back to the seller. See
-| [Forms](/discover/portal/-/knowledge_base/7-1/forms)for more detail.
+| [Forms](/docs/7-1/user/-/knowledge_base/u/forms)for more detail.
 
 ## PayPal
 

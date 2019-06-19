@@ -54,7 +54,7 @@ a Cart Content widget.
 
 Follow these steps to set up a cart:
 
-1.  [Create a page](/discover/portal/-/knowledge_base/7-1/creating-pages).
+1.  [Create a page](/docs/7-1/user/-/knowledge_base/u/creating-pages).
 
 2.  Go to *Add Menu* &rarr; *Widgets* &rarr; *Commerce* and add *Commerce
     Cart Content* and *Commerce Cart Content Total* widgets to the page. This
@@ -69,7 +69,7 @@ Follow these steps to set up a cart:
 The purchase process is handled by a *Commerce Checkout* widget. Follow
 these steps:
 
-1.  [Create a page](/discover/portal/-/knowledge_base/7-1/creating-pages).
+1.  [Create a page](/docs/7-1/user/-/knowledge_base/u/creating-pages).
 
 2.  Go to the *Add Menu* &rarr; *Widgets* &rarr; *Commerce* and add a *Commerce
     Checkout* Widget to the page.
@@ -110,7 +110,7 @@ for details.
 
 In contrast, a search bar takes entered search terms and displays appropriate
 products in the results widget. See 
-[Configuring Search](/discover/portal/-/knowledge_base/7-1/configuring-search-pages) for
+[Configuring Search](/docs/7-1/user/-/knowledge_base/u/configuring-search-pages) for
 details on how to set up the search bar. Keep in mind that those instructions
 assume the use of the standard search results widget. To search the catalog for
 products, you must use the Commerce search results widget instead, but the
@@ -135,7 +135,7 @@ respectively.
 The product comparison feature displays the details of multiple products on
 a single page. Follow these steps to enable this feature:
 
-1.  [Create a page](/discover/portal/-/knowledge_base/7-1/creating-pages).
+1.  [Create a page](/docs/7-1/user/-/knowledge_base/u/creating-pages).
 
 2.  Go to *Add Menu* &rarr; *Widgets* &rarr; *Commerce* and add a *Compare
     Products* widget to the page.

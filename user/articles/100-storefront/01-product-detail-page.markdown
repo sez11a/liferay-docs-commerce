@@ -18,7 +18,7 @@ with the appropriate content when it is opened.
 
 Follow these steps to create a single generic page to display product details:
 
-1.  [Create a page](/discover/portal/-/knowledge_base/7-1/creating-and-managing-pages).
+1.  [Create a page](/docs/7-1/user/-/knowledge_base/u/creating-and-managing-pages).
 
 2.  Deploy a *Commerce Product Details* widget to the page.
 
@@ -42,7 +42,7 @@ product. It only displays the default page if no individual page exists.
 
 Follow these steps to create an individual product page:
 
-1.  [Create a page](/discover/portal/-/knowledge_base/7-1/creating-and-managing-pages).
+1.  [Create a page](/docs/7-1/user/-/knowledge_base/u/creating-and-managing-pages).
 
 2.  Navigate to the catalog and select the product you want to assign to the
     page. Click the *Configuration* tab and then the *Display Page* sub-tab.
