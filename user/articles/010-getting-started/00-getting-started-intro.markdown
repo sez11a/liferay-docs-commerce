@@ -34,7 +34,7 @@ while customizable widgets make it easy to add common UI elements---such as
 @commerce@ is optimized for business-to-business (B2B) transactions, combining
 modern site experiences with features that address B2B needs. For buyers with
 approval processes to observe before making purchases, @commerce@ can provide
-[workflows](/discover/portal/-/knowledge_base/7-1/workflow) so that the
+[workflows](/docs/7-1/user/-/knowledge_base/u/workflow) so that the
 appropriate manager must approve each order before it can be placed.
 
 In addition, @commerce@ features a user control system integrated with
@@ -69,7 +69,7 @@ accordingly.
 @commerce@ can be installed on an existing @product@ instance from an `.lpkg`
 file you can download [here](https://dev.liferay.com/en/web/commerce/downloads).
 You will also need GA3 or later of @product-ver@; see installation instructions
-[here](/discover/deployment/-/knowledge_base/7-1/deploying-product).
+[here](/docs/7-1/deploy/-/knowledge_base/d/deploying-product).
 
 Once you have the `.lpkg`, follow these steps:
 
@@ -111,7 +111,7 @@ Panel* &rarr; *Configuration* &rarr; *Search* and reindex all search indexes.
 ## Accelerators
 
 The quickest way to get going with commerce is to use a site Accelerator. An 
-Accelerator is a type of [Site Template]( /discover/portal/-/knowledge_base/7-1/building-sites-from-templates)
+Accelerator is a type of [Site Template]( /docs/7-1/user/-/knowledge_base/u/building-sites-from-templates)
 that does much of the initial work of setting up a store. Creating a Site with
 an Accelerator is an easy way to see what @commerce@ can do, and can be used
 to get a head start on a live store: modify the theme to suit your purposes,

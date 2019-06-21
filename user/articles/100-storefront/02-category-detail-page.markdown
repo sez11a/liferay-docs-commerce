@@ -25,7 +25,7 @@ help buyers easily find the products they want.
 
 Follow these steps to create a single generic page to display category content:
 
-1.  [Create a page](/discover/portal/-/knowledge_base/7-1/creating-and-managing-pages). 
+1.  [Create a page](/docs/7-1/user/-/knowledge_base/u/creating-and-managing-pages). 
 
 2.  Go to *Site Menu* &rarr; *Build* &rarr; *Pages* and click the
     ![Options](../../images/icon-options.png) button next to the page you just
@@ -56,7 +56,7 @@ Facets* or *Specification Option Facets*, filter search results.
 
 To create a unique page for a single category, follow these steps:
 
-1.  [Create a page](/discover/portal/-/knowledge_base/7-1/creating-and-managing-pages).
+1.  [Create a page](/docs/7-1/user/-/knowledge_base/u/creating-and-managing-pages).
 
 2.  Go to *Site Menu* &rarr; *Categorization* &rarr; *Categories* and find the
     category you want to create a page for. Then click
