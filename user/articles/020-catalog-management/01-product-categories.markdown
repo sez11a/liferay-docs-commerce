@@ -19,7 +19,7 @@ then assign products to them.
 
 To create vocabularies, categories and subcategories, go to *Site Menu* &rarr;
 *Categorization* &rarr; *Categories*. To learn more about the process, go to the
-[Defining Categories for Content](/discover/portal/-/knowledge_base/7-1/defining-categories-for-content)
+[Defining Categories for Content](/docs/7-1/user/-/knowledge_base/u/defining-categories-for-content)
 section.
 
 | Note: Categories nest hierarchically. While this allows multiple categories to

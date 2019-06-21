@@ -8,7 +8,7 @@ header-id: creating-a-custom-product-renderer
 
 Like any other widget in @product@, the appearance of the Product Details
 Widget can be customized using an 
-[Application Display Template](discover/portal/-/knowledge_base/7-1/styling-widgets-with-application-display-templates).
+[Application Display Template](/docs/7-1/user/-/knowledge_base/u/styling-widgets-with-application-display-templates).
 For displaying products, however, this isn't ideal---unless you want all your
 products to be displayed in the same way. If you want to display products
 differently depending on the [product type](/web/commerce/documentation/-/knowledge_base/1-0/products),
