@@ -1,5 +1,5 @@
 ---
-header-id: customizing-cart-validationidcustomizing-cart-validation
+header-id: customizing-cart-validation
 ---
 
 # Customizing Cart Validation[](id=customizing-cart-validation)
