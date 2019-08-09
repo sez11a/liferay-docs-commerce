@@ -6,10 +6,10 @@ header-id: payment-methods
 
 [TOC levels=1-4]
 
-@commerce@ offers two payment methods---money order and purchase order---that do
-not require the services of a third-party payment provider. Integration with
-payment providers is also possible, with one---PayPal---ready to go out of the
-box.
+@commerce@ offers one payment method---money order---that does not require the
+services of a third-party payment provider. Integration with payment providers
+is also possible, with three---PayPal, Mercanet, and Authorize.net---ready to go
+out of the box.
 
 ## Money Order
 
@@ -40,46 +40,11 @@ customers to pay by money order:
 
 3.  Set the *Active* toggle to *yes* and click *Save*.
 
-## Purchase Order
-
-Purchase orders require providing buyers with an order form, and then invoicing
-them after the form is submitted. Follow these steps to let buyers pay by
-purchase order:
-
-1.  Go to *Site Menu* &rarr; *Commerce* &rarr; *Settings* and click the
-    *Payment Methods* tab.
-
-2.  Click *Purchase Order* and fill in the following fields:
-
-    **Name**: Give the payment method a name or leave it as *Purchase Order.*
-
-    **Description**: Text entered in this field appears on the screen where
-    buyers select a payment method.
-
-    **Icon**: Hit *Browse* to upload or select an image to display along with
-    the name and description.
-
-    **Priority:** Set a priority to determine the order payment methods appear
-    on a page. Lower numbers come first.
-
-    **Message**: Text entered here appears after the customer chooses the
-    purchase order option. On the same page, the buyer is prompted to enter
-    a Purchase Order Number. Use this field to tell customers where to find the
-    correct purchase order number, when to expect an invoice, or other
-    information.
-
-3.  Set the *Active* toggle to *yes* and click *Save*.
-
-
-| **Note:** This process does not give buyers an order form or enable buyers to
-| submit that order form back to the seller. See
-| [Forms](/docs/7-1/user/-/knowledge_base/u/forms)for more detail.
-
 ## PayPal
 
-Follow these steps let buyers pay with PayPal:
+Follow these steps to let buyers pay with PayPal:
 
-1.  Go to the 
+1.  Go to the
     [PayPal Developer
     Dashboard](https://developer.paypal.com/developer/applications/create) and
     obtain a Client ID and Client Secret. You must open an account and create
@@ -104,3 +69,81 @@ Follow these steps let buyers pay with PayPal:
 4.  Enter the Client ID and Client Secret into the appropriate fields. Then
     select a *Mode* (*Sandbox* for testing, *Live* for actual transactions),
     check the *Active* box, and click *Save*
+
+## Mercanet
+
+Follow these steps to let buyers pay with Mercanet.
+
+Because Mercanet accepts only the Euro, the store's primary currency must be
+Euro. To change the primary currency,
+
+2.  Go to the *Control Panel* &rarr; *Commerce* &rarr; *Settings*.
+
+3.  Click _Currencies_.
+
+4.  Click the _3-dot icon_ next to *Euro*.
+
+5.  Click _Set as Primary_.
+
+Once the store's primary currency has been changed, Mercanet can now be used.
+
+1.  Go to
+    [Mercanet](https://documentation.mercanet.bnpparibas.net/index.php?titl e=Obtenir_sa_cl%C3%A9_secr%C3%A8te#) 
+    to obtain a Mercanet Merchant ID, Secret Key, and a Key Version.
+
+2.  Click *Site Menu* &rarr; *Commerce* &rarr; *Settings*
+    and choose the *Payment Methods* tab.
+
+3.  Click *Mercanet* and fill in the following fields:
+
+    **Name**: Give the payment method a name, or leave it as *Mercanet.*
+
+    **Description:** Text entered in this field appears on the screen where
+    buyers a select a payment method.
+
+    **Icon**: Hit *Browse* to upload or select an image to display along with
+    the name and description.
+
+    **Priority:** Set a priority to determine the order payment methods appear
+    on a page. Lower numbers come first.
+
+4.  Set the Active toggle to *yes* and click *Save*.
+
+5.  Click the *Configuration* tab.
+
+6.  Enter the Merchant ID, Secret Key, and Key Version into the appropriate
+    fields. Then select an *Environment* (*Simulation* or *Test* for testing,
+    *Production* for actual transactions), and click *Save*. 
+
+## Authorize.net
+
+Follow these steps to let buyers pay with Authorize.net. 
+
+1. Go [Authorize.net](https://support.authorize.net/s/article/How-do-I-obtain-my-API-Login-ID-and-Transaction-Key) 
+   and obtain an API Login ID and a Transaction Key.
+
+2. Back in @commerce@, go to *Site Menu* &rarr; *Commerce* &rarr; *Settings*
+   and click the *Payment Methods* tab.
+
+3. Click *Authorize.net* and fill in the following fields:
+
+   **Name**: Give the payment method a name, or leave it as *Activate.net*.
+
+   **Description:** Text entered in this field appears on the screen where
+   buyers a select a payment method.
+
+   **Icon**: Hit *Browse* to upload or select an image to display along with
+   the name and description.
+
+   **Priority:** Set a priority to determine the order payment methods appear
+   on a page. Lower numbers come first.
+
+4.  Set the *Active* toggle to *yes* and click *Save*.
+
+5.  Click the *Configuration* tab.
+
+6.  Enter the API Login ID and Transaction Key into the appropriate fields. Then
+    select an *Environment* (*Sandbox* for testing, *Production* for actual transactions),
+    and the check the appropriate boxes for *Display* options and *Security* options.
+
+7. Click *Save*.
