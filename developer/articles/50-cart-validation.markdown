@@ -2,7 +2,7 @@
 header-id: customizing-cart-validation
 ---
 
-# Customizing Cart Validation[](id=customizing-cart-validation)
+# Customizing Cart Validation
 
 [TOC levels=1-4]
 
