@@ -30,7 +30,11 @@ Once you have your JSP, follow these steps:
 
         compileOnly group: "com.liferay.commerce", name: "com.liferay.commerce.product.api", version: "1.0.0"
 
-2. Implement the interface:
+2.  Modify your `bnd.bnd` file to provide a web context path for your module: 
+
+        Web-ContextPath: /[your-context-path-here]
+
+3.  Implement the interface:
 
         @Component(
           immediate = true,
