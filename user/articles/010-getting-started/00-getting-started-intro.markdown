@@ -117,9 +117,8 @@ an Accelerator is an easy way to see what @commerce@ can do, and can be used
 to get a head start on a live store: modify the theme to suit your purposes,
 replace the dummy catalog with your own data, and you're well on your way.
 
-At the time of this writing, @commerce@ ships with two Accelerators.  Minium is
-geared toward B2B selling, while Breccia models a UI similar to that used by
-most major retailers. Both Accelerators include a theme, a complete user
-interface, and a catalog populated with sample products. See
+At the time of this writing, @commerce@ ships with one Accelerator.  Minium is
+geared toward B2B selling. It includes a theme, a complete user interface, and
+a catalog populated with sample products. See
 [Accelerators](/web/commerce/documentation/-/knowledge_base/1-0/accelerators)
 for more information.
