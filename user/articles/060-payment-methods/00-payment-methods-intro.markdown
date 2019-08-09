@@ -74,13 +74,10 @@ Follow these steps to let buyers pay with PayPal:
 
 Follow these steps to let buyers pay with Mercanet.
 
-1.  Go to [Mercanet](https://documentation.mercanet.bnpparibas.net/index.php?titl
-e=Obtenir_sa_cl%C3%A9_secr%C3%A8te#) to obtain a Mercanet Merchant ID, Secret
-Key, and a Key Version.
+Because Mercanet accepts only the Euro, the store's primary currency must be
+Euro. To change the primary currency,
 
-Because Mercanet accepts only EUR, the store's primary currency must be EUR. To change the primary currency:
-
-2.  Back in @commerce@, go to the *Control Panel* &rarr; *Commerce* &rarr; *Settings*.
+2.  Go to the *Control Panel* &rarr; *Commerce* &rarr; *Settings*.
 
 3.  Click _Currencies_.
 
@@ -90,10 +87,14 @@ Because Mercanet accepts only EUR, the store's primary currency must be EUR. To 
 
 Once the store's primary currency has been changed, Mercanet can now be used.
 
-1.  Go to *Site Menu* &rarr; *Commerce* &rarr; *Settings*
-    and click the *Payment Methods* tab.
+1.  Go to
+    [Mercanet](https://documentation.mercanet.bnpparibas.net/index.php?titl e=Obtenir_sa_cl%C3%A9_secr%C3%A8te#) 
+    to obtain a Mercanet Merchant ID, Secret Key, and a Key Version.
 
-2.  Click *Mercanet* and fill in the following fields:
+2.  Click *Site Menu* &rarr; *Commerce* &rarr; *Settings*
+    and choose the *Payment Methods* tab.
+
+3.  Click *Mercanet* and fill in the following fields:
 
     **Name**: Give the payment method a name, or leave it as *Mercanet.*
 
@@ -106,38 +107,36 @@ Once the store's primary currency has been changed, Mercanet can now be used.
     **Priority:** Set a priority to determine the order payment methods appear
     on a page. Lower numbers come first.
 
-4.  Set the *Active* toggle to *yes* and click *Save*.
+4.  Set the Active toggle to *yes* and click *Save*.
 
 5.  Click the *Configuration* tab.
 
-6.  Enter the Merchant ID, Secret Key, and Key Version into the appropriate fields. Then
-    select an *Environment* (*Simulation* or *Test* for testing, *Production* for actual transactions),
-    and click *Save*
+6.  Enter the Merchant ID, Secret Key, and Key Version into the appropriate
+    fields. Then select an *Environment* (*Simulation* or *Test* for testing,
+    *Production* for actual transactions), and click *Save*. 
 
+## Authorize.net
 
-## Activate.net
+Follow these steps to let buyers pay with Authorize.net. 
 
-Follow these step to let buyers pay with Activate.net
-
-1. Go [Activate.net](https://support.authorize.net/s/article/How-do-I-obtain-my-
-API-Login-ID-and-Transaction-Key) and obtain an API Login ID and a Transaction
-Key.
+1. Go [Authorize.net](https://support.authorize.net/s/article/How-do-I-obtain-my-API-Login-ID-and-Transaction-Key) 
+   and obtain an API Login ID and a Transaction Key.
 
 2. Back in @commerce@, go to *Site Menu* &rarr; *Commerce* &rarr; *Settings*
-    and click the *Payment Methods* tab.
+   and click the *Payment Methods* tab.
 
-3. Click *Activate.net* and fill in the following fields:
+3. Click *Authorize.net* and fill in the following fields:
 
-    **Name**: Give the payment method a name, or leave it as *Activate.net*.
+   **Name**: Give the payment method a name, or leave it as *Activate.net*.
 
-    **Description:** Text entered in this field appears on the screen where
-    buyers a select a payment method.
+   **Description:** Text entered in this field appears on the screen where
+   buyers a select a payment method.
 
-    **Icon**: Hit *Browse* to upload or select an image to display along with
-    the name and description.
+   **Icon**: Hit *Browse* to upload or select an image to display along with
+   the name and description.
 
-    **Priority:** Set a priority to determine the order payment methods appear
-    on a page. Lower numbers come first.
+   **Priority:** Set a priority to determine the order payment methods appear
+   on a page. Lower numbers come first.
 
 4.  Set the *Active* toggle to *yes* and click *Save*.
 
