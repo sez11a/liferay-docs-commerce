@@ -4,8 +4,7 @@ header-id: account-management
 
 # Account Management
 
-The Beryl Customer Portal's distinguishing feature is its account management
-system. In a B2C scenario, product selection, order placement, and payment are
+In a B2C scenario, product selection, order placement, and payment are
 all handled by the consumer. B2B transactions, however, often have more complex
 requirements: one employee might select products to buy, another might approve
 that selection, and yet another might handle payment. By setting up a unique
@@ -17,9 +16,6 @@ multiple users with different roles to collaborate on the buying process.
 An account is a type of Organization---specifically a sub-organization---which
 has as its parent your store Site's Organization.
 
-Your store Site's Organization was created automatically when you created the
-Site using the Beryl Accelerator (see 
-[Accelerators](/web/commerce/documentation/-/knowledge_base/1-0/accelerators)).
 To set up a new account, follow these steps:
 
 1.  Go to *Control Panel* &rarr; *Users* &rarr; *Users and Organizations*. Click
@@ -65,7 +61,7 @@ Follow these steps to add a new user to an account:
 
 Once you have added users to an account, you must assign Roles to them. Roles
 can be customized any way you want (see 
-[Roles and Permissions](/docs/7-1/user/-/knowledge_base/u/roles-and-permissions)). By
+[Roles and Permissions](https://portal.liferay.dev/docs/7-1/user/-/knowledge_base/u/roles-and-permissions)). By
 default, however, the customer portal uses three Roles for customer users:
 Buyers, Order Managers, and Account Managers.
 
@@ -84,14 +80,14 @@ administrators still retain ultimate control over account management.
 
 Site Administrators can assign these Roles to users just as they would any other
 Organization Role (see 
-[Managing Roles](/docs/7-1/user/-/knowledge_base/u/managing-roles). However,
+[Managing Roles](https://portal.liferay.dev/docs/7-1/user/-/knowledge_base/u/managing-roles). However,
 you can also allow your customer's account managers to do this. Account managers
 cannot add new users to your system, but they can add existing users to their
 accounts and assign permissions to them.
 
 An account manager can follow these steps to add a user to an account:
 
-1.  From the Beryl site's main page, click the *Account Management* tab and then
+1.  From the site's main page, click the *Account Management* tab and then
     the *Members* sub-tab.
 
 2.  Click ![Add](../../../images/icon-add.png). Enter the email address of an
